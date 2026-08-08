@@ -1347,7 +1347,7 @@
   "2zCmiR": {
     "context": "tabel column header",
     "en": "Cost price",
-    "cs": "Cena výrobních nákladů "
+    "cs": "Cena výrobních nákladů"
   },
   "3+990c": {
     "context": "button",
@@ -4047,7 +4047,7 @@
   "CXTIq8": {
     "context": "",
     "en": "Search engine description",
-    "cs": "Hledat engine description"
+    "cs": "Popis pro vyhledávače"
   },
   "CXn88q": {
     "context": "",
@@ -4332,7 +4332,7 @@
   "DTL7sE": {
     "context": "dialog content",
     "en": "Are you sure you want to delete {warehouseName}?",
-    "cs": "Opravdu chcete smazat arehouseName}?"
+    "cs": "Opravdu chcete smazat {warehouseName}?"
   },
   "DVgMit": {
     "context": "transaction event type, transaction was chargeback by payment provider",
@@ -4477,7 +4477,7 @@
   "ECpTeb": {
     "context": "Add filter button text",
     "en": "Add filter",
-    "cs": "Přidat filter"
+    "cs": "Přidat filtr"
   },
   "EDihQs": {
     "context": "",
@@ -4757,7 +4757,7 @@
   "FDaFNL": {
     "context": "",
     "en": "Search Engine Slug",
-    "cs": "Hledat Engine Slug"
+    "cs": "Slug pro vyhledávače"
   },
   "FEWgh/": {
     "context": "column title tag",
@@ -4927,7 +4927,7 @@
   "Fn3bE0": {
     "context": "",
     "en": "Order line updated",
-    "cs": "Oroer line aktualizován"
+    "cs": "Položka objednávky aktualizována"
   },
   "FopBSj": {
     "context": "error message",
@@ -5332,7 +5332,7 @@
   "GyXEWS": {
     "context": "",
     "en": "App created",
-    "cs": "App vytvořen"
+    "cs": "Aplikace vytvořena"
   },
   "Gz+4CI": {
     "context": "info text",
@@ -5382,7 +5382,7 @@
   "H5jL5+": {
     "context": "button",
     "en": "Add Comment",
-    "cs": "Přidat comment"
+    "cs": "Přidat komentář"
   },
   "H5yp8O": {
     "context": "label",
@@ -5582,12 +5582,12 @@
   "HlEpii": {
     "context": "",
     "en": "Search Engine Title",
-    "cs": "Hledat Engine Title"
+    "cs": "Titulek pro vyhledávače"
   },
   "HnVtSS": {
     "context": "search",
     "en": "No results",
-    "cs": "Žádné results"
+    "cs": "Žádné výsledky"
   },
   "HnZCl7": {
     "context": "search input placeholder",
@@ -5692,7 +5692,7 @@
   "I5vC7T": {
     "context": "button label",
     "en": "Edit reason",
-    "cs": "Upravit reason"
+    "cs": "Upravit důvod"
   },
   "I6Bv55": {
     "context": "success notification after saving store settings",
@@ -5767,7 +5767,7 @@
   "ILgbKN": {
     "context": "key-value field button add more key-value pairs",
     "en": "Add more",
-    "cs": "Přidat more"
+    "cs": "Přidat další"
   },
   "ILrXJV": {
     "context": "",
@@ -5842,7 +5842,7 @@
   "IVOjqW": {
     "context": "gift card bulk create success dialog export button",
     "en": "Export To Email",
-    "cs": "Exportovat To Email"
+    "cs": "Exportovat na e-mail"
   },
   "IW4YT7": {
     "context": "delete app",
@@ -5927,7 +5927,7 @@
   "IoDlcd": {
     "context": "",
     "en": "Slug",
-    "cs": "slug"
+    "cs": "Slug"
   },
   "IpOugE": {
     "context": "",
@@ -6287,7 +6287,7 @@
   "JyQoES": {
     "context": "delete attribute value",
     "en": "Are you sure you want to delete \"{name}\" value?",
-    "cs": "Opravdu chcete smazat name}\" value?"
+    "cs": "Opravdu chcete smazat hodnotu \"{name}\"?"
   },
   "K+QQU5": {
     "context": "shipping method types help example row one result",
@@ -6302,7 +6302,7 @@
   "K//bUK": {
     "context": "refund button",
     "en": "Refund",
-    "cs": "Vrácení platby"
+    "cs": "Refundace"
   },
   "K/gnGg": {
     "context": "",
@@ -6417,7 +6417,7 @@
   "KYMCYg": {
     "context": "",
     "en": "Shipping rate deleted",
-    "cs": "Shipping rate smazán"
+    "cs": "Sazba za dopravu smazána"
   },
   "KYtsk7": {
     "context": "transaction refund card label in line expanded panel",
@@ -7027,12 +7027,12 @@
   "MnpUD7": {
     "context": "",
     "en": "View details",
-    "cs": "Zobrazit details"
+    "cs": "Zobrazit detaily"
   },
   "MpOBnD": {
     "context": "",
     "en": "Tax settings updated",
-    "cs": "Tax settings aktualizován"
+    "cs": "Nastavení daní aktualizováno"
   },
   "MpR4zK": {
     "context": "customer details, header",
@@ -7167,7 +7167,7 @@
   "NEJo1I": {
     "context": "dialog content",
     "en": "Are you sure you want to delete {voucherCode}?",
-    "cs": "Opravdu chcete smazat oucherCode}?"
+    "cs": "Opravdu chcete smazat {voucherCode}?"
   },
   "NEmY1y": {
     "context": "title for model type tab settings",
@@ -7247,7 +7247,7 @@
   "NVYVA+": {
     "context": "return items table, add reason button",
     "en": "Add reason",
-    "cs": "Přidat reason"
+    "cs": "Přidat důvod"
   },
   "NVp0fa": {
     "context": "modeling section name",
@@ -7302,7 +7302,7 @@
   "NlEVVT": {
     "context": "label for button",
     "en": "Create class",
-    "cs": "Vytvořit class"
+    "cs": "Vytvořit třídu"
   },
   "NlSJMM": {
     "context": "channels section name",
@@ -7712,12 +7712,12 @@
   "P98zBi": {
     "context": "",
     "en": "Edit reason",
-    "cs": "Upravit reason"
+    "cs": "Upravit důvod"
   },
   "P9YktI": {
     "context": "save preset, header",
     "en": "Save view preset",
-    "cs": "Uložit view preset"
+    "cs": "Uložit předvolbu zobrazení"
   },
   "PBd/e+": {
     "context": "dialog header",
@@ -7782,7 +7782,7 @@
   "PLCwT/": {
     "context": "search results",
     "en": "Show more",
-    "cs": "Zobrazit more"
+    "cs": "Zobrazit více"
   },
   "PLX6FH": {
     "context": "sum of all manual refunds for transaction",
@@ -7902,7 +7902,7 @@
   "PmLFgv": {
     "context": "Button to remove all staged generator creates",
     "en": "Clear all",
-    "cs": "Vymazat all"
+    "cs": "Vymazat vše"
   },
   "Pnj+JH": {
     "context": "key-value field input",
@@ -8222,7 +8222,7 @@
   "QkFeOa": {
     "context": "order refund amount button",
     "en": "Refund",
-    "cs": "Vrácení platby"
+    "cs": "Refundace"
   },
   "Ql7OM1": {
     "context": "",
@@ -8567,7 +8567,7 @@
   "SHF+gG": {
     "context": "Clear filters button text",
     "en": "Clear filters",
-    "cs": "Vymazat filters"
+    "cs": "Vymazat filtry"
   },
   "SHm5Dv": {
     "context": "count of existing variants",
@@ -8652,7 +8652,7 @@
   "SUbxSK": {
     "context": "product weight",
     "en": "Weight",
-    "cs": "hmotnost"
+    "cs": "Hmotnost"
   },
   "SV0FRm": {
     "context": "attribute is filterable in storefront",
@@ -8667,7 +8667,7 @@
   "SZH0fw": {
     "context": "set variant as default, button",
     "en": "Set as default",
-    "cs": "Nastavit as default"
+    "cs": "Nastavit jako výchozí"
   },
   "SZyphU": {
     "context": "",
@@ -8682,12 +8682,12 @@
   "SceSNp": {
     "context": "",
     "en": "Remove following permissions:",
-    "cs": "Odebrat following permissions:"
+    "cs": "Odebrat následující oprávnění:"
   },
   "SdnSCt": {
     "context": "note about separators input in model type tab grouping help",
     "en": "Enter multiple separators as a comma-separated list.",
-    "cs": "Zadat multiple separators as a comma-separated list."
+    "cs": "Zadejte více oddělovačů jako seznam oddělený čárkami."
   },
   "SgFE10": {
     "context": "product type digital",
@@ -8782,7 +8782,7 @@
   "T9zLm6": {
     "context": "",
     "en": "Selecting reason is required",
-    "cs": "Selecting reason je povinný"
+    "cs": "Výběr důvodu je povinný"
   },
   "TBdxTP": {
     "context": "promotion type order discount",
@@ -8817,7 +8817,7 @@
   "TGX4T1": {
     "context": "",
     "en": "Search Engine Preview",
-    "cs": "Hledat Engine Preview"
+    "cs": "Náhled pro vyhledávače"
   },
   "THpf1b": {
     "context": "product availability available date",
@@ -8887,7 +8887,7 @@
   "TQph+r": {
     "context": "progress under load more variants in assign variant dialog",
     "en": "{loaded} of {total} loaded",
-    "cs": "{loaded} of {total} načteno"
+    "cs": "Načteno {loaded} z {total}"
   },
   "TSJRiZ": {
     "context": "channel status title",
@@ -8902,7 +8902,7 @@
   "TTWEc9": {
     "context": "",
     "en": "Reason is required",
-    "cs": "Reason je povinný"
+    "cs": "Důvod je povinný"
   },
   "TTbx89": {
     "context": "Short tooltip for OrderSettings.automaticallyFulfillNonShippableGiftCard",
@@ -9027,7 +9027,7 @@
   "U2DyeR": {
     "context": "",
     "en": "Are you sure you want to delete structure {menuName}?",
-    "cs": "Opravdu chcete smazat ructure {menuName}?"
+    "cs": "Opravdu chcete smazat strukturu {menuName}?"
   },
   "U2WgwW": {
     "context": "add custom select input option",
@@ -9052,7 +9052,7 @@
   "U5CH0u": {
     "context": "",
     "en": "Are you sure you want to delete {name} preset?",
-    "cs": "Opravdu chcete smazat ame} preset?"
+    "cs": "Opravdu chcete smazat předvolbu {name}?"
   },
   "U5Da30": {
     "context": "",
@@ -9162,7 +9162,7 @@
   "US3IPU": {
     "context": "",
     "en": "Search Engine Description",
-    "cs": "Hledat Engine Description"
+    "cs": "Popis pro vyhledávače"
   },
   "USS3Q7": {
     "context": "filters error messages unknown error",
@@ -9187,7 +9187,7 @@
   "Uh3NX/": {
     "context": "remove failed installation dialog content",
     "en": "Are you sure you want to delete {name} failed installation?",
-    "cs": "Opravdu chcete smazat ame} failed installation?"
+    "cs": "Opravdu chcete smazat nezdařenou instalaci {name}?"
   },
   "Uh9R9m": {
     "context": "prepare order fulfillment, button",
@@ -9427,7 +9427,7 @@
   "VQvNZx": {
     "context": "page title",
     "en": "All installed",
-    "cs": "Všechny installed"
+    "cs": "Všechny nainstalované"
   },
   "VRT9cG": {
     "context": "orders list menu shortcut to settings hub",
@@ -9472,7 +9472,7 @@
   "Vdy5g7": {
     "context": "weight units type",
     "en": "Weight",
-    "cs": "hmotnost"
+    "cs": "Hmotnost"
   },
   "Vf57Ie": {
     "context": "",
