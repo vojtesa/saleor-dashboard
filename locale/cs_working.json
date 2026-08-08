@@ -1722,7 +1722,7 @@
   "4VLj3S": {
     "context": "overcharged order status",
     "en": "Overcharged",
-    "cs": "Přeúčtováno"
+    "cs": "Přeplaceno"
   },
   "4VOIum": {
     "context": "product availability",
@@ -2742,7 +2742,7 @@
   "8Cjxdt": {
     "context": "",
     "en": "Overcharged",
-    "cs": "Přeúčtováno"
+    "cs": "Přeplaceno"
   },
   "8Cve4h": {
     "context": "checkbox label",
@@ -3187,7 +3187,7 @@
   "9XYfOt": {
     "context": "fulfillment section name",
     "en": "Fulfillment",
-    "cs": "Vyřízení"
+    "cs": "Prodej"
   },
   "9Y5i/8": {
     "context": "number of webhook headers in model",
@@ -3712,7 +3712,7 @@
   "BXKn/d": {
     "context": "charge status",
     "en": "Overcharged",
-    "cs": "Přeúčtováno"
+    "cs": "Přeplaceno"
   },
   "BXkF8Z": {
     "context": "header",
@@ -10602,7 +10602,7 @@
   "ZOamBQ": {
     "context": "charge status overcharged",
     "en": "Overcharged",
-    "cs": "Přeúčtováno"
+    "cs": "Přeplaceno"
   },
   "ZRz3hM": {
     "context": "",
