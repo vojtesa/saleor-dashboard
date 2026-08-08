@@ -8167,7 +8167,7 @@
   "QcXdj6": {
     "context": "customer recent orders table column: net product sales after discounts",
     "en": "Net",
-    "cs": "Čistý"
+    "cs": "Bez DPH"
   },
   "QclvqG": {
     "context": "input label",
@@ -15912,7 +15912,7 @@
   "rU2b3o": {
     "context": "orders list column: net product value (excludes tax and shipping)",
     "en": "Net",
-    "cs": "Čistý"
+    "cs": "Bez DPH"
   },
   "rVIlBs": {
     "context": "page header with order number",
