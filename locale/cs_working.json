@@ -3382,7 +3382,7 @@
   "AJF7N5": {
     "context": "scope note for model type tab grouping help tooltip",
     "en": "Browser-only display — does not rename, merge, or change your model types or data.",
-    "cs": ""
+    "cs": "Zobrazení pouze v prohlížeči — nemění, nepřejmenovává ani neslučuje vaše typy modelů ani data."
   },
   "ALe+of": {
     "context": "",
@@ -3402,7 +3402,7 @@
   "AQ+9Ez": {
     "context": "",
     "en": "We’ve encountered an unexpected error",
-    "cs": ""
+    "cs": "Došlo k neočekávané chybě"
   },
   "AQDJ1d": {
     "context": "",
@@ -3417,7 +3417,7 @@
   "AR/VVX": {
     "context": "Indicates last login method user used",
     "en": "Last used",
-    "cs": ""
+    "cs": "Naposledy použito"
   },
   "AUaL7R": {
     "context": "notification",
@@ -3437,7 +3437,7 @@
   "AWyKB7": {
     "context": "card header title",
     "en": "Channel list",
-    "cs": ""
+    "cs": "Seznam kanálů"
   },
   "AXEs7u": {
     "context": "gift card history message",
@@ -3452,7 +3452,7 @@
   "AbyDC7": {
     "context": "section header",
     "en": "Eligible Categories",
-    "cs": ""
+    "cs": "Způsobilé kategorie"
   },
   "AcKksu": {
     "context": "shipping method channel picker dialog description with method name",
@@ -3472,7 +3472,7 @@
   "Aeq79M": {
     "context": "PluginDetailsChannelsCard no channels subtitle",
     "en": "Plugin’s settings are set common across all channels",
-    "cs": ""
+    "cs": "Nastavení pluginu jsou společná pro všechny kanály"
   },
   "AgHhjW": {
     "context": "dialog header",
@@ -3517,7 +3517,7 @@
   "AqXzM2": {
     "context": "",
     "en": "Order #{orderNumber}",
-    "cs": ""
+    "cs": "Objednávka č. {orderNumber}"
   },
   "ArctEg": {
     "context": "requires activation checkbox caption",
@@ -3537,7 +3537,7 @@
   "AuwpCm": {
     "context": "",
     "en": "Country area",
-    "cs": ""
+    "cs": "Oblast země"
   },
   "Av27o5": {
     "context": "Short merchant-facing tooltip for OrderSettings.allowUnpaidOrders (avoid GraphQL mutation names)",
@@ -3572,7 +3572,7 @@
   "B0PaVS": {
     "context": "pint unit",
     "en": "pint",
-    "cs": ""
+    "cs": "pinta"
   },
   "B0XvpR": {
     "context": "",
@@ -3582,7 +3582,7 @@
   "B0fwAj": {
     "context": "",
     "en": "and {itemsLength} more",
-    "cs": ""
+    "cs": "a {itemsLength} dalších"
   },
   "B1yzuX": {
     "context": "button label",
@@ -3627,12 +3627,12 @@
   "BA4leV": {
     "context": "",
     "en": "API guide",
-    "cs": ""
+    "cs": "API průvodce"
   },
   "BBt3jD": {
     "context": "btn label",
     "en": "Invite members",
-    "cs": ""
+    "cs": "Pozvat členy"
   },
   "BCPrmK": {
     "context": "order history message",
@@ -3647,7 +3647,7 @@
   "BHr3fj": {
     "context": "no warehouses info",
     "en": "There are no warehouses set up for this product. To add stock quantity to the product <a>configure a warehouse</a> or use existing one by clicking button below.",
-    "cs": ""
+    "cs": "Pro tento produkt nejsou nastaveny žádné sklady. Pro přidání množství zásob k produktu <a>nakonfigurujte sklad</a> nebo použijte existující kliknutím na tlačítko níže."
   },
   "BJGTFV": {
     "context": "inline add swatch attribute value name placeholder",
@@ -3667,7 +3667,7 @@
   "BL0Yro": {
     "context": "aria label for timeline vs line matrix switch",
     "en": "Order items view",
-    "cs": ""
+    "cs": "Zobrazení položek objednávky"
   },
   "BLX9dz": {
     "context": "fulfill order, button",
@@ -3682,7 +3682,7 @@
   "BNTZLv": {
     "context": "",
     "en": "Order #{orderId} was placed from draft",
-    "cs": ""
+    "cs": "Objednávka č. {orderId} byla zadána z konceptu"
   },
   "BR8au7": {
     "context": "delete channel",
@@ -3742,7 +3742,7 @@
   "BaxGjT": {
     "context": "variant stocks section subtitle",
     "en": "Assigning the stocks will be possible after the variant is saved.",
-    "cs": ""
+    "cs": "Přiřazení zásob bude možné po uložení varianty."
   },
   "BbP+k3": {
     "context": "variant availability in channel",
@@ -3767,7 +3767,7 @@
   "BgEWXq": {
     "context": "section title for legacy and developer store settings",
     "en": "Advanced",
-    "cs": ""
+    "cs": "Pokročilé"
   },
   "Bkxrhw": {
     "context": "no webhooks message",
@@ -3797,7 +3797,7 @@
   "BvGp1I": {
     "context": "",
     "en": "between",
-    "cs": ""
+    "cs": "mezi"
   },
   "BvUJzF": {
     "context": "matrix section title on orders and fulfillment settings",
@@ -3807,7 +3807,7 @@
   "BxRnKL": {
     "context": "settings search alias",
     "en": "reason model type",
-    "cs": ""
+    "cs": "typ modelu důvodu"
   },
   "BxuhWZ": {
     "context": "",
@@ -3817,7 +3817,7 @@
   "ByYtFB": {
     "context": "",
     "en": "Invalid or expired token. Please check your token in URL",
-    "cs": ""
+    "cs": "Neplatný nebo prošlý token. Zkontrolujte prosím token v URL"
   },
   "C+WD8j": {
     "context": "alert message",
@@ -3832,7 +3832,7 @@
   "C0MnAi": {
     "context": "",
     "en": "off",
-    "cs": ""
+    "cs": "vypnuto"
   },
   "C1aDzb": {
     "context": "shipping method types help example row three cart",
@@ -3917,7 +3917,7 @@
   "C9cgck": {
     "context": "",
     "en": "Learn more about {productConfigurations}",
-    "cs": ""
+    "cs": "Zjistit více o {productConfigurations}"
   },
   "C9pcQx": {
     "context": "dialog content",
@@ -3957,7 +3957,7 @@
   "CJEIRC": {
     "context": "",
     "en": "Product export has finished and was sent to your email address.",
-    "cs": ""
+    "cs": "Export produktů byl dokončen a byl odeslán na vaši e-mailovou adresu."
   },
   "CJpx4E": {
     "context": "page header",
@@ -4037,7 +4037,7 @@
   "CWDuMj": {
     "context": "remaining quantity",
     "en": "/ {max}",
-    "cs": ""
+    "cs": "/ {max}"
   },
   "CWqmRU": {
     "context": "customer's address book when no customer name is available, header",
@@ -4087,7 +4087,7 @@
   "CiWUaq": {
     "context": "",
     "en": "Make sure to save token, you won't be able to see it again.",
-    "cs": ""
+    "cs": "Ujistěte se, že jste token uložili, už ho znovu neuvidíte."
   },
   "ClKKID": {
     "context": "channel publication status",
@@ -4287,7 +4287,7 @@
   "DNj7OQ": {
     "context": "abbreviated quantity label inside the line price breakdown modal subtitle (compact context)",
     "en": "Qty",
-    "cs": ""
+    "cs": "Množ."
   },
   "DO8+uV": {
     "context": "",
@@ -4307,7 +4307,7 @@
   "DP6b8U": {
     "context": "section header",
     "en": "Background Image (optional)",
-    "cs": ""
+    "cs": "Obrázek pozadí (volitelné)"
   },
   "DPz5y6": {
     "context": "dialog header",
@@ -4417,7 +4417,7 @@
   "E+nSVG": {
     "context": "",
     "en": "Reset link sent",
-    "cs": ""
+    "cs": "Odkaz pro reset odeslán"
   },
   "E/yzIO": {
     "context": "",
@@ -4492,7 +4492,7 @@
   "EEWsPs": {
     "context": "",
     "en": "Plugin built-in to Saleor's core codebase",
-    "cs": ""
+    "cs": "Plugin vestavěný do jádra Saleoru"
   },
   "EGycu/": {
     "context": "voucher status active",
@@ -4637,7 +4637,7 @@
   "Eq3GFh": {
     "context": "",
     "en": "Is giftcard",
-    "cs": ""
+    "cs": "Je dárkový poukaz"
   },
   "ErvPaM": {
     "context": "header",
@@ -4687,7 +4687,7 @@
   "F2Ng8N": {
     "context": "note about standalone tabs in model type tab grouping help",
     "en": "Types without a separator stay as separate tabs.",
-    "cs": ""
+    "cs": "Typy bez oddělovače zůstávají jako samostatné karty."
   },
   "F2fOM7": {
     "context": "export scope option for items matching list view filters and search",
@@ -4742,7 +4742,7 @@
   "F9116r": {
     "context": "ripple action to install Saleor Pulse",
     "en": "Install Pulse",
-    "cs": ""
+    "cs": "Nainstalovat Pulse"
   },
   "F9o33g": {
     "context": "shipping method channel coverage summary",
@@ -4807,7 +4807,7 @@
   "FSOOH7": {
     "context": "option title",
     "en": "Prioritize warehouses by sorting order",
-    "cs": ""
+    "cs": "Upřednostnit sklady podle pořadí"
   },
   "FTYkgw": {
     "context": "",
@@ -5032,7 +5032,7 @@
   "G3ay2p": {
     "context": "section header",
     "en": "Fulfillment settings",
-    "cs": ""
+    "cs": "Nastavení vyřízení"
   },
   "G3caQh": {
     "context": "dialog description",
@@ -5252,7 +5252,7 @@
   "GhY+pm": {
     "context": "dynamic column description",
     "en": "Attributes",
-    "cs": ""
+    "cs": "Atributy"
   },
   "GhcypC": {
     "context": "header",
@@ -5297,7 +5297,7 @@
   "Gt5T8I": {
     "context": "automatic completion cut-off date warning",
     "en": "If cut-off date is not set, system will automatically use current date & time. If you want to customize this behavior, you can provide custom time (past or the future)",
-    "cs": ""
+    "cs": "Pokud není datum uzávěrky nastaveno, systém automaticky použije aktuální datum a čas. Pokud chcete toto chování upravit, můžete zadat vlastní čas (minulý nebo budoucí)."
   },
   "GuYTfQ": {
     "context": "card description",
@@ -5407,7 +5407,7 @@
   "H9gOMX": {
     "context": "deprecation banner shown in the sidebar",
     "en": "This Saleor version is deprecated and will be automatically upgraded on {date}.",
-    "cs": ""
+    "cs": "Tato verze Saleoru je zastaralá a bude automaticky aktualizována {date}."
   },
   "HA0fD3": {
     "context": "",
@@ -5447,12 +5447,12 @@
   "HN1Gvw": {
     "context": "option description",
     "en": "Allocate order-line to a warehouse with the most stock. If not enough stock is available in a single warehouse, the remaining quantity is allocated in the next warehouse with the most stock and repeated if necessary.",
-    "cs": ""
+    "cs": "Alokovat položku objednávky do skladu s největšími zásobami. Pokud v jednom skladu není dostatek zásob, zbývající množství se alokuje v dalším skladu s největšími zásobami a v případě potřeby se proces opakuje."
   },
   "HNwxfx": {
     "context": "seo description field hint",
     "en": "Meta description shown in search engine previews",
-    "cs": ""
+    "cs": "Meta popis zobrazovaný v náhledech vyhledávačů"
   },
   "HO4jvE": {
     "context": "bulk delete selected variants, including count for cross-page selection",
@@ -5532,7 +5532,7 @@
   "HYK65C": {
     "context": "",
     "en": "Order rule",
-    "cs": ""
+    "cs": "Pravidlo objednávky"
   },
   "Hc58JL": {
     "context": "card title",
@@ -5577,7 +5577,7 @@
   "HlCkMT": {
     "context": "",
     "en": "Order line added",
-    "cs": ""
+    "cs": "Položka objednávky přidána"
   },
   "HlEpii": {
     "context": "",
@@ -5627,7 +5627,7 @@
   "Hwp65F": {
     "context": "",
     "en": "Draft finalized",
-    "cs": ""
+    "cs": "Koncept dokončen"
   },
   "HyMpO2": {
     "context": "",
@@ -5717,7 +5717,7 @@
   "ICJ3mp": {
     "context": "shipping method types help example setup",
     "en": "Example — zone with \"Free over $100\" (price) and \"Heavy parcel 5–20 kg\" (weight):",
-    "cs": ""
+    "cs": "Příklad — oblast s \"Zdarma nad $100\" (podle ceny) a \"Těžký balík 5–20 kg\" (podle hmotnosti):"
   },
   "ICeshC": {
     "context": "product type",
@@ -5757,7 +5757,7 @@
   "IH47ID": {
     "context": "",
     "en": "Use button above to add new product variants",
-    "cs": ""
+    "cs": "Pomocí tlačítka výše přidejte nové varianty produktu"
   },
   "IKvOK+": {
     "context": "Amount error message",
@@ -5772,12 +5772,12 @@
   "ILrXJV": {
     "context": "",
     "en": "Press {key1} {key2} to send",
-    "cs": ""
+    "cs": "Stiskněte {key1} {key2} pro odeslání"
   },
   "IMXS9Z": {
     "context": "model type metadata dialog header",
     "en": "Model Type Metadata",
-    "cs": ""
+    "cs": "Metadata typu modelu"
   },
   "IN5iJz": {
     "context": "value input helper text",
@@ -5802,7 +5802,7 @@
   "INlWvJ": {
     "context": "",
     "en": "OR",
-    "cs": ""
+    "cs": "NEBO"
   },
   "INw68F": {
     "context": "",
@@ -5892,7 +5892,7 @@
   "IcTtTE": {
     "context": "Description for live status",
     "en": "Visible and purchasable",
-    "cs": ""
+    "cs": "Viditelné a lze zakoupit"
   },
   "IeoGgH": {
     "context": "variant created success message",
@@ -5982,12 +5982,12 @@
   "J3uE0t": {
     "context": "section header",
     "en": "Attribute Values",
-    "cs": ""
+    "cs": "Hodnoty atributů"
   },
   "J4E+jp": {
     "context": "",
     "en": "Variant name",
-    "cs": ""
+    "cs": "Název varianty"
   },
   "J5+lYc": {
     "context": "success notification after saving refunds settings hub",
@@ -6002,7 +6002,7 @@
   "J7mFhU": {
     "context": "currency code select",
     "en": "{code} - {countries}",
-    "cs": ""
+    "cs": "{code} - {countries}"
   },
   "J8lwWh": {
     "context": "create attribute dialog step two label",
@@ -6082,7 +6082,7 @@
   "JJgJwi": {
     "context": "",
     "en": "Selecting this will change the language of your dashboard",
-    "cs": ""
+    "cs": "Výběrem změníte jazyk svého panelu správy"
   },
   "JKbpH9": {
     "context": "expiry date checkbox label",
@@ -6217,7 +6217,7 @@
   "JjeZEG": {
     "context": "section header",
     "en": "Organize Product",
-    "cs": ""
+    "cs": "Organizovat produkt"
   },
   "Jk7dD2": {
     "context": "",
@@ -6232,7 +6232,7 @@
   "JkO0jp": {
     "context": "input description",
     "en": "{unitsLeft} units left",
-    "cs": ""
+    "cs": "Zbývá {unitsLeft} jednotek"
   },
   "JkUOSW": {
     "context": "product type detail page, top-bar metadata button tooltip",
@@ -6252,7 +6252,7 @@
   "JotAJ3": {
     "context": "",
     "en": "AND (explicit)",
-    "cs": ""
+    "cs": "AND (explicitní)"
   },
   "Jp+4eZ": {
     "context": "shipping zone country list summary",
@@ -6307,7 +6307,7 @@
   "K/gnGg": {
     "context": "",
     "en": "If you want to disable this User please uncheck the box below.",
-    "cs": ""
+    "cs": "Pokud chcete tohoto uživatele zakázat, zrušte zaškrtnutí políčka níže."
   },
   "K1ycaD": {
     "context": "input label",
@@ -6317,7 +6317,7 @@
   "K58C4r": {
     "context": "",
     "en": "We are working on replacing plugins with apps. Use apps unless no other option. {learnMore}",
-    "cs": ""
+    "cs": "Pracujeme na nahrazení pluginů aplikacemi. Používejte aplikace, ledaže nemáte jinou možnost. {learnMore}"
   },
   "K8xNLe": {
     "context": "products section name",
@@ -6352,7 +6352,7 @@
   "KHZlmi": {
     "context": "",
     "en": "Discount Type",
-    "cs": ""
+    "cs": "Typ slevy"
   },
   "KJ15H3": {
     "context": "Product save pipeline step skipped",
@@ -6402,7 +6402,7 @@
   "KTjTMW": {
     "context": "",
     "en": "Installation is pending...",
-    "cs": ""
+    "cs": "Instalace čeká na vyřízení..."
   },
   "KWXwFo": {
     "context": "grant refund table, column header",
@@ -6447,7 +6447,7 @@
   "Kg0Fiu": {
     "context": "quantity of fulfilled products",
     "en": "Quantity to fulfill",
-    "cs": ""
+    "cs": "Množství k vyřízení"
   },
   "KkQkcu": {
     "context": "Short tooltip for OrderSettings.deleteExpiredOrdersAfter (docs: order expiration)",
@@ -6467,7 +6467,7 @@
   "KpP/aW": {
     "context": "",
     "en": "Order was marked as",
-    "cs": ""
+    "cs": "Objednávka byla označena jako"
   },
   "KqJTVN": {
     "context": "intro under store settings page title",
@@ -6507,7 +6507,7 @@
   "Kw0jHS": {
     "context": "created products counter",
     "en": "{count}/{max} SKUs used",
-    "cs": ""
+    "cs": "{count}/{max} SKU použito"
   },
   "Kxiige": {
     "context": "",
@@ -6532,7 +6532,7 @@
   "L/ZbnW": {
     "context": "fulfillment status waiting for approval",
     "en": "Waiting for Approval",
-    "cs": ""
+    "cs": "Čeká na schválení"
   },
   "L2tvTm": {
     "context": "mark as paid strategy checkbox label",
@@ -6542,7 +6542,7 @@
   "L5IuDw": {
     "context": "",
     "en": "lower",
-    "cs": ""
+    "cs": "nižší"
   },
   "L6+p8a": {
     "context": "dialog title",
@@ -6617,7 +6617,7 @@
   "LJqVaO": {
     "context": "automatic completion cut-off date earlier warning message",
     "en": "Setting cut-off date {timeDifference} earlier (from {previousDate} to {newDate}) will cause checkouts created between these dates to be automatically completed.",
-    "cs": ""
+    "cs": "Nastavení data uzávěrky o {timeDifference} dříve (z {previousDate} na {newDate}) způsobí, že objednávky vytvořené mezi těmito daty budou automaticky dokončeny."
   },
   "LKD6fB": {
     "context": "",
@@ -6717,7 +6717,7 @@
   "LdzrxA": {
     "context": "",
     "en": "Custom build",
-    "cs": ""
+    "cs": "Vlastní sestavení"
   },
   "Le6/M7": {
     "context": "activate customer dialog, header",
@@ -6862,7 +6862,7 @@
   "MFirbo": {
     "context": "Button label to dismiss all problems for an app",
     "en": "Dismiss all problems raised by the app",
-    "cs": ""
+    "cs": "Zamítnout všechny problémy hlášené aplikací"
   },
   "MH1qA1": {
     "context": "",
@@ -6887,7 +6887,7 @@
   "MIp3c7": {
     "context": "input adornment helper text",
     "en": "of {value}",
-    "cs": ""
+    "cs": "z {value}"
   },
   "MJ2jZQ": {
     "context": "",
@@ -6937,7 +6937,7 @@
   "MSItJD": {
     "context": "",
     "en": "You are about to leave the Dashboard. Do you want to continue?",
-    "cs": ""
+    "cs": "Chystáte se opustit panel správy. Chcete pokračovat?"
   },
   "MTGT8E": {
     "context": "column header",
@@ -7107,7 +7107,7 @@
   "N5UuEK": {
     "context": "header",
     "en": "Items ready to ship",
-    "cs": ""
+    "cs": "Položky připraveny k odeslání"
   },
   "N6lfS/": {
     "context": "header",
@@ -7147,7 +7147,7 @@
   "NCp87D": {
     "context": "no warehouses info",
     "en": "There are no warehouses set up for this variant. To add stock quantity to the variant <a>configure a warehouse</a> or use existing one by clicking button below.",
-    "cs": ""
+    "cs": "Pro tuto variantu nejsou nastaveny žádné sklady. Pro přidání množství zásob k variantě <a>nakonfigurujte sklad</a> nebo použijte existující kliknutím na tlačítko níže."
   },
   "ND5x+V": {
     "context": "",
@@ -7187,7 +7187,7 @@
   "NJ9ngY": {
     "context": "",
     "en": "Visible Action",
-    "cs": ""
+    "cs": "Viditelná akce"
   },
   "NLnLoj": {
     "context": "voucher code label appended to a voucher factor",
@@ -7232,7 +7232,7 @@
   "NUBTlN": {
     "context": "",
     "en": "Extension doesn't provide a privacy policy.",
-    "cs": ""
+    "cs": "Rozšíření neposkytuje zásady ochrany osobních údajů."
   },
   "NUevU9": {
     "context": "attribute values list: slug column header",
@@ -7262,7 +7262,7 @@
   "NWxomz": {
     "context": "",
     "en": "Fulfillment status",
-    "cs": ""
+    "cs": "Stav vyřízení"
   },
   "NYwJyM": {
     "context": "inline add attribute value placeholder",
@@ -7387,7 +7387,7 @@
   "Nyxzpe": {
     "context": "onboarding step description",
     "en": "Saleor includes a GraphQL Playground, an interactive GraphQL editor, allowing access to your Saleor instance's API through the web browser. The Playground lets you quickly familiarize yourself with the API, perform example operations, and send your first queries and mutations.",
-    "cs": ""
+    "cs": "Saleor obsahuje GraphQL Playground, interaktivní GraphQL editor umožňující přístup k API vaší instance Saleor přes webový prohlížeč. Playground vám umožní rychle se seznámit s API, provádět ukázkové operace a odesílat první dotazy a mutace."
   },
   "NzifUg": {
     "context": "window title",
@@ -7437,7 +7437,7 @@
   "OA+fw+": {
     "context": "conjunction, choice between going to dashboard or refreshing page",
     "en": "or",
-    "cs": ""
+    "cs": "nebo"
   },
   "OAuXGE": {
     "context": "",
@@ -7462,7 +7462,7 @@
   "OFTsI1": {
     "context": "",
     "en": "Attempts:",
-    "cs": ""
+    "cs": "Pokusy:"
   },
   "OGemtu": {
     "context": "payment status",
@@ -7622,7 +7622,7 @@
   "OtIOMb": {
     "context": "",
     "en": "Shipped",
-    "cs": ""
+    "cs": "Odesláno"
   },
   "OtMtzH": {
     "context": "",
@@ -7657,7 +7657,7 @@
   "P+kVxW": {
     "context": "card description",
     "en": "User is assigned to:",
-    "cs": ""
+    "cs": "Uživatel je přiřazen k:"
   },
   "P/EDn1": {
     "context": "order history message",
@@ -7747,7 +7747,7 @@
   "PFXGaR": {
     "context": "",
     "en": "Shipping Zones",
-    "cs": ""
+    "cs": "Dopravní oblasti"
   },
   "PFmBz7": {
     "context": "",
@@ -7757,7 +7757,7 @@
   "PFnobO": {
     "context": "",
     "en": "greater",
-    "cs": ""
+    "cs": "vyšší"
   },
   "PHT8z1": {
     "context": "extension form permissions section header",
@@ -7817,7 +7817,7 @@
   "PWTzkQ": {
     "context": "",
     "en": "Ordered",
-    "cs": ""
+    "cs": "Objednáno"
   },
   "PXatmC": {
     "context": "",
@@ -7897,7 +7897,7 @@
   "PlAdWI": {
     "context": "",
     "en": "You are going to",
-    "cs": ""
+    "cs": "Chystáte se"
   },
   "PmLFgv": {
     "context": "Button to remove all staged generator creates",
@@ -7927,7 +7927,7 @@
   "PsRG+v": {
     "context": "use attribute in filtering",
     "en": "Filterable in Storefront",
-    "cs": ""
+    "cs": "Filtrovatelné v obchodě"
   },
   "PsclSa": {
     "context": "page header",
@@ -7937,7 +7937,7 @@
   "PuQb0P": {
     "context": "",
     "en": "Reward",
-    "cs": ""
+    "cs": "Odměna"
   },
   "PvrceS": {
     "context": "Refund draft status",
@@ -8067,7 +8067,7 @@
   "QBxN6z": {
     "context": "is filter range or value",
     "en": "between",
-    "cs": ""
+    "cs": "mezi"
   },
   "QDxJib": {
     "context": "",
@@ -8092,7 +8092,7 @@
   "QHDtwH": {
     "context": "",
     "en": "Has category",
-    "cs": ""
+    "cs": "Má kategorii"
   },
   "QJG+d/": {
     "context": "staff added type order discount",
@@ -8162,7 +8162,7 @@
   "Qb2XN5": {
     "context": "",
     "en": "\"Mark as paid\" feature creates a {link} - used by Payment Apps",
-    "cs": ""
+    "cs": "\"Označit jako zaplaceno\" vytváří {link} - používaná Platebními aplikacemi"
   },
   "QcXdj6": {
     "context": "customer recent orders table column: net product sales after discounts",
@@ -8252,7 +8252,7 @@
   "QqnNUm": {
     "context": "",
     "en": "Visible in listing",
-    "cs": ""
+    "cs": "Viditelné ve výpisu"
   },
   "QslFl8": {
     "context": "add new refund button",
@@ -8442,7 +8442,7 @@
   "RmEeMP": {
     "context": "dialog header",
     "en": "Deactivate Extension",
-    "cs": ""
+    "cs": "Deaktivovat rozšíření"
   },
   "Rp/Okl": {
     "context": "",
@@ -8612,7 +8612,7 @@
   "SPGU7Z": {
     "context": "automatic completion cut-off date later info message",
     "en": "Setting cut-off date {timeDifference} later (from {previousDate} to {newDate}) will not stop checkouts that are already scheduled for completion.",
-    "cs": ""
+    "cs": "Nastavení data uzávěrky o {timeDifference} později (z {previousDate} na {newDate}) nezastaví objednávky, které již jsou naplánovány k dokončení."
   },
   "SPp3cx": {
     "context": "alert message",
@@ -8632,7 +8632,7 @@
   "SRMNCS": {
     "context": "",
     "en": "Pending & failed deliveries (last 10)",
-    "cs": ""
+    "cs": "Čekající a neúspěšná doručení (posledních 10)"
   },
   "SRnxlw": {
     "context": "button to delete selected product media items",
@@ -8802,7 +8802,7 @@
   "TD/GhR": {
     "context": "header",
     "en": "Structure Items",
-    "cs": ""
+    "cs": "Položky struktury"
   },
   "TDhHMi": {
     "context": "",
@@ -8872,7 +8872,7 @@
   "TPP7j+": {
     "context": "section header",
     "en": "Organize Model",
-    "cs": ""
+    "cs": "Organizovat model"
   },
   "TPW2tP": {
     "context": "",
@@ -8932,7 +8932,7 @@
   "TZZ8Z7": {
     "context": "intro for model type tab grouping help tooltip",
     "en": "Each model type name is split at the first matching separator. The part before becomes the tab name; the part after appears in the tab menu.",
-    "cs": ""
+    "cs": "Každý název typu modelu je rozdělen podle prvního odpovídajícího oddělovače. Část před ním se stane názvem karty; část za ním se zobrazí v nabídce karty."
   },
   "Ta9j04": {
     "context": "orders section name",
@@ -9002,7 +9002,7 @@
   "U+79k0": {
     "context": "order expiration card description",
     "en": "The time in days after expired orders will be deleted. Allowed range between 1 and 120.",
-    "cs": ""
+    "cs": "Počet dní, po kterých budou prošlé objednávky smazány. Povolený rozsah 1 až 120."
   },
   "U+Fl4Z": {
     "context": "customer detail, label above the address when default billing and default shipping are the same",
@@ -9097,7 +9097,7 @@
   "UE9zNR": {
     "context": "",
     "en": "Recent Searches",
-    "cs": ""
+    "cs": "Nedávná hledání"
   },
   "UGm9nx": {
     "context": "payment method type card",
@@ -9192,7 +9192,7 @@
   "Uh9R9m": {
     "context": "prepare order fulfillment, button",
     "en": "Prepare fulfillment",
-    "cs": ""
+    "cs": "Připravit vyřízení"
   },
   "UhcALJ": {
     "context": "attribute name",
@@ -9202,7 +9202,7 @@
   "UhqCK5": {
     "context": "help section example in model type tab grouping help tooltip",
     "en": "<em>Help section for Docs</em> with separator \"section for\" appears under a <strong>Help</strong> tab.",
-    "cs": ""
+    "cs": "<em>Help section for Docs</em> s oddělovačem \"section for\" se zobrazí pod kartou <strong>Help</strong>."
   },
   "Ui4GxI": {
     "context": "gift card bulk create success dialog export button",
@@ -9272,7 +9272,7 @@
   "UuX9YV": {
     "context": "Reassurance under verification badge when product is not purchasable",
     "en": "The public API does not return this product as purchasable. Review the issues listed above to resolve.",
-    "cs": ""
+    "cs": "Veřejné API nevrací tento produkt jako zakoupitelný. Zkontrolujte výše uvedené problémy a vyřešte je."
   },
   "UvD+xp": {
     "context": "attribute values",
@@ -9477,7 +9477,7 @@
   "Vf57Ie": {
     "context": "",
     "en": "Partially fulfilled",
-    "cs": ""
+    "cs": "Částečně vyřízeno"
   },
   "VkYZQ8": {
     "context": "",
@@ -9632,7 +9632,7 @@
   "WDrC7e": {
     "context": "label",
     "en": "Link value",
-    "cs": ""
+    "cs": "Hodnota odkazu"
   },
   "WDy0tF": {
     "context": "section header",
@@ -9717,7 +9717,7 @@
   "WW+Ruy": {
     "context": "",
     "en": "Deleted product from collection",
-    "cs": ""
+    "cs": "Produkt odebrán z kolekce"
   },
   "WWV8aZ": {
     "context": "dialog title",
@@ -9767,7 +9767,7 @@
   "Wj5TbN": {
     "context": "",
     "en": "Issues",
-    "cs": ""
+    "cs": "Problémy"
   },
   "Wlc67M": {
     "context": "error message",
@@ -9867,7 +9867,7 @@
   "X9tptP": {
     "context": "",
     "en": "Not fully charged",
-    "cs": ""
+    "cs": "Ne plně zaúčtováno"
   },
   "XAvER/": {
     "context": "",
@@ -9882,7 +9882,7 @@
   "XBfvKN": {
     "context": "",
     "en": "Order History",
-    "cs": ""
+    "cs": "Historie objednávek"
   },
   "XBwpUv": {
     "context": "product field",
@@ -9927,7 +9927,7 @@
   "XJZziQ": {
     "context": "confirmation dialog description for staged generator creates",
     "en": "You are about to add {count} variants to this product. They will be created when you save the product.",
-    "cs": ""
+    "cs": "Chystáte se přidat {count} variant k tomuto produktu. Budou vytvořeny při uložení produktu."
   },
   "XJm60a": {
     "context": "",
@@ -9972,7 +9972,7 @@
   "XNeJay": {
     "context": "section header",
     "en": "Eligible Collections",
-    "cs": ""
+    "cs": "Způsobilé kolekce"
   },
   "XOkUxQ": {
     "context": "",
@@ -10047,7 +10047,7 @@
   "Xa8ZOn": {
     "context": "Badge shown when channel has unsaved changes",
     "en": "edited",
-    "cs": ""
+    "cs": "upraveno"
   },
   "Xb/w18": {
     "context": "",
@@ -10147,7 +10147,7 @@
   "XyURe6": {
     "context": "",
     "en": "Exact phrase",
-    "cs": ""
+    "cs": "Přesná fráze"
   },
   "Xz/sDf": {
     "context": "Dry run items list item",
@@ -10157,7 +10157,7 @@
   "Y/SXVb": {
     "context": "",
     "en": "The operation cannot be performed right now. This might be due to a pending installation with the same identifier.",
-    "cs": ""
+    "cs": "Operaci nelze nyní provést. Důvodem může být čekající instalace se stejným identifikátorem."
   },
   "Y0EpoG": {
     "context": "",
@@ -10172,7 +10172,7 @@
   "Y1B0PN": {
     "context": "error message",
     "en": "There's no payment associated with the order",
-    "cs": ""
+    "cs": "K objednávce není přiřazena žádná platba"
   },
   "Y299ST": {
     "context": "table column header",
@@ -10242,7 +10242,7 @@
   "YEv+6G": {
     "context": "input helper text",
     "en": "Leaving this setting empty will mean that stock won’t be reserved",
-    "cs": ""
+    "cs": "Ponechání prázdné hodnoty znamená, že zásoby nebudou rezervovány"
   },
   "YFQBs1": {
     "context": "product availability date label",
@@ -10277,7 +10277,7 @@
   "YL8K/3": {
     "context": "automatic completion delay input label",
     "en": "Delay before completion (minutes). Default is 30.",
-    "cs": ""
+    "cs": "Prodleva před dokončením (minuty). Výchozí je 30."
   },
   "YNUHeb": {
     "context": "attribute metadata dialog header",
@@ -10302,7 +10302,7 @@
   "YTvn5m": {
     "context": "automatic completion zero delay warning message",
     "en": "Setting delay to 0 will complete checkouts immediately after payment. This may break your storefront if it expects the Checkout object to remain available. ({link})",
-    "cs": ""
+    "cs": "Nastavení prodlevy na 0 dokončí objednávky ihned po zaplacení. To může narušit váš obchod, pokud očekává, že objekt Checkout zůstane dostupný. ({link})"
   },
   "YUaalK": {
     "context": "Cancel in progress transaction amount, data display header",
@@ -10322,7 +10322,7 @@
   "YVsbL4": {
     "context": "Tooltip showing which user dismissed a problem",
     "en": "Dismissed by {email}",
-    "cs": ""
+    "cs": "Zamítnuto uživatelem {email}"
   },
   "YaCu4U": {
     "context": "Health check status when product can be purchased",
@@ -10392,7 +10392,7 @@
   "Ynjq+C": {
     "context": "",
     "en": "Fully charged",
-    "cs": ""
+    "cs": "Plně zaúčtováno"
   },
   "Yo2kC+": {
     "context": "",
@@ -10512,7 +10512,7 @@
   "ZBs2Pb": {
     "context": "",
     "en": "Gift",
-    "cs": ""
+    "cs": "Dárek"
   },
   "ZBzfHn": {
     "context": "Description for hidden status",
@@ -10522,7 +10522,7 @@
   "ZCSOaS": {
     "context": "",
     "en": "Limit to voucher code use once",
-    "cs": ""
+    "cs": "Omezit na jedno použití kódu voucheru"
   },
   "ZD3/vJ": {
     "context": "gift card customer unassigned success message",
@@ -10612,7 +10612,7 @@
   "ZTG+Dv": {
     "context": "",
     "en": "Draft order will be automatically created for replaced products",
-    "cs": ""
+    "cs": "Pro vyměněné produkty bude automaticky vytvořen koncept objednávky"
   },
   "ZU1Kz8": {
     "context": "empty state message",
@@ -10702,7 +10702,7 @@
   "Zvo5iu": {
     "context": "",
     "en": "API reference",
-    "cs": ""
+    "cs": "API reference"
   },
   "ZwtDkP": {
     "context": "",
@@ -10712,7 +10712,7 @@
   "Zx1w1e": {
     "context": "",
     "en": "edited",
-    "cs": ""
+    "cs": "upraveno"
   },
   "Zyjb/g": {
     "context": "gift card resend dialog custom recipient radio option",
@@ -10837,7 +10837,7 @@
   "aHIrs/": {
     "context": "",
     "en": "Failed to load filter data. Please refresh page to try again.",
-    "cs": ""
+    "cs": "Načtení dat filtru selhalo. Obnovte stránku a zkuste to znovu."
   },
   "aHasbu": {
     "context": "delete draft order confirmation",
@@ -10852,7 +10852,7 @@
   "aHoX+i": {
     "context": "Tooltip indicating a problem was dismissed by the app itself",
     "en": "Dismissed by app",
-    "cs": ""
+    "cs": "Zamítnuto aplikací"
   },
   "aI80kg": {
     "context": "",
@@ -10927,7 +10927,7 @@
   "aWJPo+": {
     "context": "tooltip explaining why cut-off date checkbox is disabled",
     "en": "Cut-off date cannot be disabled once automatic completion is enabled. You can change the date to a different value.",
-    "cs": ""
+    "cs": "Datum uzávěrky nelze zakázat, pokud je povoleno automatické dokončování. Můžete změnit datum na jinou hodnotu."
   },
   "aWzvoq": {
     "context": "",
@@ -10952,7 +10952,7 @@
   "aasX8r": {
     "context": "label",
     "en": "Link type",
-    "cs": ""
+    "cs": "Typ odkazu"
   },
   "ab8LMF": {
     "context": "return a single order line from row menu",
@@ -11072,12 +11072,12 @@
   "b1j4K6": {
     "context": "select label",
     "en": "False",
-    "cs": ""
+    "cs": "Ne"
   },
   "b1lW6g": {
     "context": "",
     "en": "Last seen {date}.",
-    "cs": ""
+    "cs": "Naposledy viděn {date}."
   },
   "b1t9bM": {
     "context": "empty headers text",
@@ -11492,7 +11492,7 @@
   "cEO6Yx": {
     "context": "dialog header",
     "en": "Activate Extension",
-    "cs": ""
+    "cs": "Aktivovat rozšíření"
   },
   "cEoeGG": {
     "context": "",
@@ -11537,7 +11537,7 @@
   "cKCfSW": {
     "context": "dialog header",
     "en": "Unassign Products From Voucher",
-    "cs": ""
+    "cs": "Odebrat produkty z voucheru"
   },
   "cKjFfl": {
     "context": "product attribute type",
@@ -11567,7 +11567,7 @@
   "cNXv4f": {
     "context": "",
     "en": "Fulfillment cancelled",
-    "cs": ""
+    "cs": "Vyřízení zrušeno"
   },
   "cOki0G": {
     "context": "",
@@ -11587,12 +11587,12 @@
   "cRQ9hb": {
     "context": "",
     "en": "Deleted structure",
-    "cs": ""
+    "cs": "Smazaná struktura"
   },
   "cS1wAx": {
     "context": "",
     "en": "I know what I'm doing - confirm",
-    "cs": ""
+    "cs": "Vím, co dělám - potvrdit"
   },
   "cSLXjT": {
     "context": "gift card history message",
@@ -11607,7 +11607,7 @@
   "cW1RIo": {
     "context": "section header",
     "en": "Media View",
-    "cs": ""
+    "cs": "Zobrazení médií"
   },
   "cW7hFJ": {
     "context": "shipping method channel column",
@@ -11622,7 +11622,7 @@
   "cY42ht": {
     "context": "",
     "en": "Password cannot be entirely numeric",
-    "cs": ""
+    "cs": "Heslo nemůže být tvořeno pouze číslicemi"
   },
   "cYjzDx": {
     "context": "aria-label for the info icon inside an availability issue callout",
@@ -11657,7 +11657,7 @@
   "ce5Hp1": {
     "context": "",
     "en": "Failed to copy to clipboard",
-    "cs": ""
+    "cs": "Kopírování do schránky selhalo"
   },
   "cg1bRE": {
     "context": "product media detail page, top-bar metadata button tooltip",
@@ -11682,7 +11682,7 @@
   "ckSjjv": {
     "context": "",
     "en": "Too complex conditions to display, use playground to see details.",
-    "cs": ""
+    "cs": "Podmínky jsou příliš složité k zobrazení, použijte playground pro zobrazení detailů."
   },
   "cnvyqW": {
     "context": "ChannelsSection select field placeholder",
@@ -11762,7 +11762,7 @@
   "d+Wc8t": {
     "context": "description field hint",
     "en": "Main description content for this item",
-    "cs": ""
+    "cs": "Hlavní popis tohoto prvku"
   },
   "d+XiBg": {
     "context": "settings search alias",
@@ -11782,7 +11782,7 @@
   "d1AzfC": {
     "context": "hint text showing number of available options in multiselect",
     "en": "{count} options available",
-    "cs": ""
+    "cs": "K dispozici {count} možností"
   },
   "d1PvC8": {
     "context": "checkbox",
@@ -11807,7 +11807,7 @@
   "d6ZaoI": {
     "context": "shipping method types help tooltip title",
     "en": "Price-based vs weight-based methods",
-    "cs": ""
+    "cs": "Způsoby podle ceny vs. podle hmotnosti"
   },
   "d7EsgY": {
     "context": "settings search alias",
@@ -12057,7 +12057,7 @@
   "eIGXwJ": {
     "context": "Alert text",
     "en": "You are using an old version of filter presets. The following presets: {presetNames} must be updated to continue using filters",
-    "cs": ""
+    "cs": "Používáte starou verzi předvoleb filtrů. Následující předvolby: {presetNames} musí být aktualizovány, abyste mohli filtry nadále používat."
   },
   "eKEL/g": {
     "context": "",
@@ -12082,7 +12082,7 @@
   "eR2vV/": {
     "context": "",
     "en": "If left unchecked it creates a {link} - used by Payment Plugins",
-    "cs": ""
+    "cs": "Pokud není zaškrtnuto, vytvoří se {link} - používaný Platebními pluginy"
   },
   "eRqx44": {
     "context": "",
@@ -12112,7 +12112,7 @@
   "eW36Jx": {
     "context": "",
     "en": "Saved search queries will appear here",
-    "cs": ""
+    "cs": "Zde se zobrazí uložené vyhledávací dotazy"
   },
   "eWV760": {
     "context": "",
@@ -12257,12 +12257,12 @@
   "fKLe7r": {
     "context": "",
     "en": "Delivery start:",
-    "cs": ""
+    "cs": "Začátek doručení:"
   },
   "fKrRhF": {
     "context": "",
     "en": "General information",
-    "cs": ""
+    "cs": "Obecné informace"
   },
   "fL08MU": {
     "context": "",
@@ -12312,12 +12312,12 @@
   "fWaj1M": {
     "context": "",
     "en": "The Saleor version your extension is trying to use is newer than your current Saleor version. {docsLink} ({errorCode})",
-    "cs": ""
+    "cs": "Verze Saleoru, kterou se vaše rozšíření snaží použít, je novější než vaše aktuální verze Saleoru. {docsLink} ({errorCode})"
   },
   "fXdkiI": {
     "context": "",
     "en": "is",
-    "cs": ""
+    "cs": "je"
   },
   "fYRCRL": {
     "context": "button to fetch the next page of variants in assign variant dialog",
@@ -12427,7 +12427,7 @@
   "fw+VAN": {
     "context": "product's sku",
     "en": "SKU",
-    "cs": ""
+    "cs": "SKU"
   },
   "fxbjge": {
     "context": "Status when product is currently visible on storefront",
@@ -12442,7 +12442,7 @@
   "fzl482": {
     "context": "expires on label",
     "en": "Will expire on:",
-    "cs": ""
+    "cs": "Platnost vyprší:"
   },
   "fzpXvv": {
     "context": "",
@@ -12487,7 +12487,7 @@
   "g9M3PH": {
     "context": "",
     "en": "Issues found.{break}Review extension alerts.",
-    "cs": ""
+    "cs": "Nalezeny problémy.{break}Zkontrolujte upozornění rozšíření."
   },
   "g9Mb+U": {
     "context": "change warehouse dialog title",
@@ -12577,7 +12577,7 @@
   "gSQ0Ge": {
     "context": "",
     "en": "Variant {name} has been set as default.",
-    "cs": ""
+    "cs": "Varianta {name} byla nastavena jako výchozí."
   },
   "gaOXvo": {
     "context": "notification, form submitted",
@@ -12747,7 +12747,7 @@
   "h9aBq7": {
     "context": "",
     "en": "Password changed",
-    "cs": ""
+    "cs": "Heslo změněno"
   },
   "hASogc": {
     "context": "",
@@ -12787,7 +12787,7 @@
   "hJj8QA": {
     "context": "button to confirm fulfillment cancellation",
     "en": "Cancel fulfillment",
-    "cs": ""
+    "cs": "Zrušit vyřízení"
   },
   "hLOEeb": {
     "context": "button",
@@ -12962,7 +12962,7 @@
   "htvX+Z": {
     "context": "",
     "en": "Deny",
-    "cs": ""
+    "cs": "Odmítnout"
   },
   "hw9Fah": {
     "context": "button",
@@ -12982,7 +12982,7 @@
   "hyAOPB": {
     "context": "",
     "en": "Use Avalara plugin",
-    "cs": ""
+    "cs": "Použít plugin Avalara"
   },
   "hz+9ES": {
     "context": "bulk activate label",
@@ -13002,7 +13002,7 @@
   "i/ZhxL": {
     "context": "section header returned",
     "en": "Fulfillment waiting for approval",
-    "cs": ""
+    "cs": "Vyřízení čeká na schválení"
   },
   "i0dH9w": {
     "context": "Product save pipeline step label",
@@ -13092,7 +13092,7 @@
   "iKWz5z": {
     "context": "SKU label inside the line price breakdown modal subtitle",
     "en": "SKU",
-    "cs": ""
+    "cs": "SKU"
   },
   "iLNRJL": {
     "context": "product type a11y label prefix",
@@ -13112,7 +13112,7 @@
   "iPk640": {
     "context": "dialog header",
     "en": "Media Selection",
-    "cs": ""
+    "cs": "Výběr médií"
   },
   "iSnXTt": {
     "context": "",
@@ -13132,7 +13132,7 @@
   "iUIn50": {
     "context": "section notice",
     "en": "Unfulfilled products will be restocked",
-    "cs": ""
+    "cs": "Nevyřízené produkty budou vráceny na sklad"
   },
   "iUhCur": {
     "context": "attributes translation section subtitle",
@@ -13147,7 +13147,7 @@
   "iWbl/h": {
     "context": "",
     "en": "Partially returned",
-    "cs": ""
+    "cs": "Částečně vráceno"
   },
   "iWmfMe": {
     "context": "button",
@@ -13192,7 +13192,7 @@
   "igoIjo": {
     "context": "",
     "en": "Line matrix",
-    "cs": ""
+    "cs": "Matice položek"
   },
   "iidznP": {
     "context": "password login mode option description",
@@ -13277,7 +13277,7 @@
   "ixjvkM": {
     "context": "",
     "en": "We’ve created your default token. Make sure to copy your new personal access token now. You won’t be able to see it again.",
-    "cs": ""
+    "cs": "Vytvořili jsme váš výchozí token. Nezapomeňte si nyní zkopírovat svůj nový osobní přístupový token. Později už ho neuvidíte."
   },
   "j+lQWT": {
     "context": "error message when cut-off date is older than 30 days",
@@ -13412,7 +13412,7 @@
   "jOgiMP": {
     "context": "",
     "en": "NOT",
-    "cs": ""
+    "cs": "NOT"
   },
   "jPVqOL": {
     "context": "settings search alias",
@@ -13492,7 +13492,7 @@
   "jm2YzF": {
     "context": "description",
     "en": "Use Saleor Cloud to access Saleor Extensions",
-    "cs": ""
+    "cs": "Použijte Saleor Cloud pro přístup k rozšířením Saleor"
   },
   "jmZSK1": {
     "context": "",
@@ -13507,7 +13507,7 @@
   "jp2Jjs": {
     "context": "automatic completion cut-off date description",
     "en": "Only checkouts created on or after this date will be automatically completed. If not set, current time will be used. {link}",
-    "cs": ""
+    "cs": "Automaticky budou dokončeny pouze objednávky vytvořené v toto datum nebo po něm. Pokud není nastaveno, použije se aktuální čas. {link}"
   },
   "jpY7Ne": {
     "context": "settings search alias",
@@ -13602,7 +13602,7 @@
   "k20lqw": {
     "context": "",
     "en": "Legacy flow detected - select tax strategy from dropdown",
-    "cs": ""
+    "cs": "Zjištěn starší proces - vyberte daňovou strategii z nabídky"
   },
   "k3EI/U": {
     "context": "dialog header",
@@ -13612,7 +13612,7 @@
   "k4brJy": {
     "context": "",
     "en": "SKU",
-    "cs": ""
+    "cs": "SKU"
   },
   "k62BKw": {
     "context": "select label",
@@ -13622,7 +13622,7 @@
   "k6kIUq": {
     "context": "password login mode option",
     "en": "Enabled",
-    "cs": ""
+    "cs": "Zapnuto"
   },
   "k6sfZr": {
     "context": "tooltip content when product is in preorder",
@@ -13682,7 +13682,7 @@
   "kFQvXv": {
     "context": "",
     "en": "You have reached your warehouse limit, you will be no longer able to add warehouses to your store. If you would like to up your limit, contact your administration staff about raising your limits.",
-    "cs": ""
+    "cs": "Dosáhli jste limitu skladů, již nebudete moci přidávat sklady do svého obchodu. Pokud chcete limit navýšit, obraťte se na svou administrativu ohledně zvýšení limitů."
   },
   "kFYlu2": {
     "context": "",
@@ -13707,7 +13707,7 @@
   "kG44rx": {
     "context": "dialog header",
     "en": "Unpublish models",
-    "cs": ""
+    "cs": "Zrušit publikaci modelů"
   },
   "kGBmBz": {
     "context": "Message when no errors or warnings, but exactly one info-level advisory exists",
@@ -13757,7 +13757,7 @@
   "kN6SLs": {
     "context": "",
     "en": "Min Value",
-    "cs": ""
+    "cs": "Min. hodnota"
   },
   "kPIZ65": {
     "context": "page header",
@@ -13772,7 +13772,7 @@
   "kRnxj2": {
     "context": "Suffix for show-more button when hidden problems include both active and critical",
     "en": ", including {active} active and {critical} critical",
-    "cs": ""
+    "cs": ", včetně {active} aktivních a {critical} kritických"
   },
   "kS9cpK": {
     "context": "customer account email-verification row label",
@@ -13797,7 +13797,7 @@
   "kVKTwC": {
     "context": "order expiration card title",
     "en": "Order expiration",
-    "cs": ""
+    "cs": "Expirace objednávky"
   },
   "kVL3LM": {
     "context": "",
@@ -13817,7 +13817,7 @@
   "kVZfHj": {
     "context": "",
     "en": "App does not include a configuration screen",
-    "cs": ""
+    "cs": "Aplikace neobsahuje konfigurační obrazovku"
   },
   "kWuOqa": {
     "context": "badge for variant that already exists",
@@ -13842,7 +13842,7 @@
   "kbezTI": {
     "context": "",
     "en": "Extension doesn't provide a description.",
-    "cs": ""
+    "cs": "Rozšíření neposkytuje popis."
   },
   "kc4c4d": {
     "context": "product label",
@@ -13907,7 +13907,7 @@
   "kpRxSA": {
     "context": "Require email confirmation link",
     "en": "Require email confirmation link",
-    "cs": ""
+    "cs": "Vyžadovat odkaz pro potvrzení e-mailu"
   },
   "kr1PlW": {
     "context": "",
@@ -13967,7 +13967,7 @@
   "l1pZJx": {
     "context": "",
     "en": "Not fully authorised",
-    "cs": ""
+    "cs": "Ne plně autorizováno"
   },
   "l2oVCF": {
     "context": "attributes section name",
@@ -13997,7 +13997,7 @@
   "l9ETHu": {
     "context": "checkbox label description",
     "en": "You will be able to fulfill products without capturing payment for the order.",
-    "cs": ""
+    "cs": "Budete moci vyřizovat produkty bez zaúčtování platby za objednávku."
   },
   "l9Lwjh": {
     "context": "order return error title when cannot refund",
@@ -14022,7 +14022,7 @@
   "lDdWo9": {
     "context": "",
     "en": "Fulfillment Metadata",
-    "cs": ""
+    "cs": "Metadata vyřízení"
   },
   "lDdj6f": {
     "context": "page header",
@@ -14047,7 +14047,7 @@
   "lGlDEH": {
     "context": "header",
     "en": "Group members",
-    "cs": ""
+    "cs": "Členové skupiny"
   },
   "lHCpM4": {
     "context": "empty state shown when search returns no results",
@@ -14062,7 +14062,7 @@
   "lL1HTg": {
     "context": "",
     "en": "Order marked as paid",
-    "cs": ""
+    "cs": "Objednávka označena jako zaplacená"
   },
   "lL3YJO": {
     "context": "collection",
@@ -14082,7 +14082,7 @@
   "lLwtgs": {
     "context": "",
     "en": "Variants are disabled in this product type",
-    "cs": ""
+    "cs": "Varianty jsou u tohoto typu produktu zakázány"
   },
   "lNZuWl": {
     "context": "",
@@ -14132,7 +14132,7 @@
   "lW5uJO": {
     "context": "money",
     "en": "from {money}",
-    "cs": ""
+    "cs": "od {money}"
   },
   "lXq4EE": {
     "context": "checkbox",
@@ -14147,7 +14147,7 @@
   "lZC/1a": {
     "context": "",
     "en": "greater than {value}",
-    "cs": ""
+    "cs": "vyšší než {value}"
   },
   "lZTwh4": {
     "context": "",
@@ -14167,7 +14167,7 @@
   "lehGc9": {
     "context": "section header",
     "en": "Eligible Variants",
-    "cs": ""
+    "cs": "Způsobilé varianty"
   },
   "lfXze9": {
     "context": "",
@@ -14192,7 +14192,7 @@
   "li1BBk": {
     "context": "export items as csv file",
     "en": "Plain CSV file",
-    "cs": ""
+    "cs": "Obyčejný CSV soubor"
   },
   "ljwv+L": {
     "context": "discount value label",
@@ -14332,7 +14332,7 @@
   "mBSBtn": {
     "context": "",
     "en": "Prefix matching",
-    "cs": ""
+    "cs": "Shoda prefixu"
   },
   "mCP0UD": {
     "context": "order draft creation date",
@@ -14357,7 +14357,7 @@
   "mIRBuW": {
     "context": "",
     "en": "Is published",
-    "cs": ""
+    "cs": "Je publikováno"
   },
   "mIUNgR": {
     "context": "button",
@@ -14387,7 +14387,7 @@
   "mN/S07": {
     "context": "attribute entity type helper on full attribute form",
     "en": "Which type of record merchants can link to.",
-    "cs": ""
+    "cs": "Jaký typ záznamu mohou obchodníci propojit."
   },
   "mSCZd4": {
     "context": "Webhook details asynchronous events",
@@ -14397,7 +14397,7 @@
   "mSS92b": {
     "context": "",
     "en": "Untitled rule",
-    "cs": ""
+    "cs": "Nepojmenované pravidlo"
   },
   "mShMMI": {
     "context": "intro under orders and fulfillment settings page title",
@@ -14487,7 +14487,7 @@
   "mr9jbO": {
     "context": "",
     "en": "Preferred Language",
-    "cs": ""
+    "cs": "Preferovaný jazyk"
   },
   "mrPzXs": {
     "context": "factor label for catalogue promotion / sale",
@@ -14547,7 +14547,7 @@
   "n0w2ZT": {
     "context": "label for currently selected warehouse",
     "en": "currently selected",
-    "cs": ""
+    "cs": "aktuálně vybráno"
   },
   "n2eKUn": {
     "context": "channel form hint linking to orders and fulfillment settings hub",
@@ -14597,7 +14597,7 @@
   "nDwEdh": {
     "context": "attribute values section subtitle",
     "en": "Selectable values for this attribute",
-    "cs": ""
+    "cs": "Volitelné hodnoty pro tento atribut"
   },
   "nEWp+k": {
     "context": "quantity of ordered products",
@@ -14812,7 +14812,7 @@
   "nwvQPg": {
     "context": "section header",
     "en": "Organization",
-    "cs": ""
+    "cs": "Organizace"
   },
   "ny4zrH": {
     "context": "dialog title",
@@ -14912,7 +14912,7 @@
   "oK7729": {
     "context": "note about case insensitivity in model type tab grouping help",
     "en": "Letter case is ignored when matching prefixes.",
-    "cs": ""
+    "cs": "Při porovnávání prefixů se nerozlišují velká a malá písmena."
   },
   "oKUPKP": {
     "context": "reference types multiselect label for model entity",
@@ -14922,7 +14922,7 @@
   "oL7VUz": {
     "context": "",
     "en": "Order Metadata",
-    "cs": ""
+    "cs": "Metadata objednávky"
   },
   "oLMXDv": {
     "context": "order status",
@@ -14972,7 +14972,7 @@
   "oUxBlO": {
     "context": "",
     "en": "Line details for {productName}",
-    "cs": ""
+    "cs": "Detail položky pro {productName}"
   },
   "oWIL0E": {
     "context": "order header date, older than yesterday",
@@ -14987,7 +14987,7 @@
   "oYGfnY": {
     "context": "",
     "en": "ZIP / Postal code",
-    "cs": ""
+    "cs": "PSČ"
   },
   "oYV+Ru": {
     "context": "staff members status deactivated",
@@ -15067,7 +15067,7 @@
   "osPBn1": {
     "context": "currency filter label",
     "en": "Currency",
-    "cs": ""
+    "cs": "Měna"
   },
   "ous0aA": {
     "context": "dialog subtitle for order discount",
@@ -15077,12 +15077,12 @@
   "owCz2y": {
     "context": "message when matrix view cannot be shown",
     "en": "Matrix view requires exactly 2 attributes with selected values",
-    "cs": ""
+    "cs": "Maticové zobrazení vyžaduje přesně 2 atributy s vybranými hodnotami"
   },
   "oyXhGL": {
     "context": "label for model type tab grouping separator input",
     "en": "Split on",
-    "cs": ""
+    "cs": "Rozdělit podle"
   },
   "p/Fd7s": {
     "context": "unassign products from shipping rate and save, button",
@@ -15137,7 +15137,7 @@
   "pAwBtz": {
     "context": "",
     "en": "Reward value",
-    "cs": ""
+    "cs": "Hodnota odměny"
   },
   "pBuMjY": {
     "context": "tooltip for rest of the world quick pick in assign countries dialog",
@@ -15157,7 +15157,7 @@
   "pCjZEC": {
     "context": "Error when channel is not active",
     "en": "Channel \"{channelName}\" is inactive",
-    "cs": ""
+    "cs": "Kanál \"{channelName}\" je neaktivní"
   },
   "pCy5EP": {
     "context": "gift card history message",
@@ -15167,7 +15167,7 @@
   "pEf/m+": {
     "context": "",
     "en": "There are no previews at the moment. Stay tuned!",
-    "cs": ""
+    "cs": "Momentálně nejsou k dispozici žádné náhledy. Zůstaňte naladěni!"
   },
   "pFVX6g": {
     "context": "",
@@ -15207,7 +15207,7 @@
   "pML8C9": {
     "context": "aria label for dismissing Pulse video announcement",
     "en": "Dismiss Pulse announcement",
-    "cs": ""
+    "cs": "Zavřít oznámení Pulse"
   },
   "pMXWrd": {
     "context": "Label for available for purchase toggle",
@@ -15242,7 +15242,7 @@
   "pSqXo6": {
     "context": "",
     "en": "Related Order",
-    "cs": ""
+    "cs": "Související objednávka"
   },
   "pTOnzt": {
     "context": "Apply filters button text in modal picker",
@@ -15297,7 +15297,7 @@
   "pdJlXC": {
     "context": "",
     "en": "See all global search results",
-    "cs": ""
+    "cs": "Zobrazit všechny výsledky globálního hledání"
   },
   "pepgIN": {
     "context": "",
@@ -15407,7 +15407,7 @@
   "q/FMPM": {
     "context": "dialog header",
     "en": "Publish models",
-    "cs": ""
+    "cs": "Publikovat modely"
   },
   "q0TV+c": {
     "context": "no countries found in assign countries dialog",
@@ -15427,7 +15427,7 @@
   "q4EmsW": {
     "context": "",
     "en": "Total:",
-    "cs": ""
+    "cs": "Celkem:"
   },
   "q5I8Ac": {
     "context": "",
@@ -15442,7 +15442,7 @@
   "q7bXR4": {
     "context": "",
     "en": "Payments summary",
-    "cs": ""
+    "cs": "Souhrn plateb"
   },
   "q7v0W7": {
     "context": "save draft button",
@@ -15487,7 +15487,7 @@
   "qGwKT/": {
     "context": "",
     "en": "Extension disabled. Activate the extension from the settings.",
-    "cs": ""
+    "cs": "Rozšíření zakázáno. Aktivujte rozšíření v nastavení."
   },
   "qIVtUd": {
     "context": "Modal header showing total problem count for an app",
@@ -15512,7 +15512,7 @@
   "qL9Oi9": {
     "context": "",
     "en": "Structure Title",
-    "cs": ""
+    "cs": "Název struktury"
   },
   "qLOBff": {
     "context": "dialog header",
@@ -15592,7 +15592,7 @@
   "qRmntJ": {
     "context": "extensions list ready to be used",
     "en": "{name} is ready to be used",
-    "cs": ""
+    "cs": "{name} je připraveno k použití"
   },
   "qRsNn3": {
     "context": "settings search alias",
@@ -15602,7 +15602,7 @@
   "qSCmIG": {
     "context": "",
     "en": "lower than {value}",
-    "cs": ""
+    "cs": "nižší než {value}"
   },
   "qT6YYk": {
     "context": "order line total price",
@@ -15637,7 +15637,7 @@
   "qZB1cn": {
     "context": "",
     "en": "This Model Type does not have created models yet.",
-    "cs": ""
+    "cs": "Tento typ modelu zatím nemá vytvořené žádné modely."
   },
   "qZHHed": {
     "context": "stock exceeded dialog title",
@@ -15652,7 +15652,7 @@
   "qank7+": {
     "context": "",
     "en": "Continue with SSO",
-    "cs": ""
+    "cs": "Pokračovat s SSO"
   },
   "qbFKVI": {
     "context": "notification, form submitted",
@@ -15682,7 +15682,7 @@
   "qf8OtW": {
     "context": "",
     "en": "Continue with Saleor Cloud",
-    "cs": ""
+    "cs": "Pokračovat se Saleor Cloud"
   },
   "qgQeVW": {
     "context": "",
@@ -15707,7 +15707,7 @@
   "qkUBLC": {
     "context": "",
     "en": "See logs",
-    "cs": ""
+    "cs": "Zobrazit logy"
   },
   "qkaF5G": {
     "context": "Label of the home page tab grouping non-fullscreen widget extensions",
@@ -15757,7 +15757,7 @@
   "qu/hXD": {
     "context": "",
     "en": "Selected {number} items",
-    "cs": ""
+    "cs": "Vybráno {number} položek"
   },
   "quV5zH": {
     "context": "dialog title",
@@ -15827,7 +15827,7 @@
   "r5h6qc": {
     "context": "model type name",
     "en": "Model Type Name",
-    "cs": ""
+    "cs": "Název typu modelu"
   },
   "r7uSVR": {
     "context": "model seo options description",
@@ -15837,7 +15837,7 @@
   "rBfhUQ": {
     "context": "Banner description after partial product save failure",
     "en": "Saving runs in steps. Review what applied below, fix the problem, and save again.",
-    "cs": ""
+    "cs": "Ukládání probíhá v krocích. Zkontrolujte, co bylo použito níže, opravte problém a uložte znovu."
   },
   "rCy3Fe": {
     "context": "invalid date in expirydate field content",
@@ -15932,7 +15932,7 @@
   "ra2O4j": {
     "context": "",
     "en": "Deleted draft orders",
-    "cs": ""
+    "cs": "Smazané koncepty objednávek"
   },
   "ranzuN": {
     "context": "settings search alias",
@@ -16027,7 +16027,7 @@
   "rxNddi": {
     "context": "",
     "en": "Homepage",
-    "cs": ""
+    "cs": "Domovská stránka"
   },
   "rxlJJ/": {
     "context": "grant refund table, column header",
@@ -16072,7 +16072,7 @@
   "s40PZt": {
     "context": "",
     "en": "Sale Name",
-    "cs": ""
+    "cs": "Název výprodeje"
   },
   "s51tHd": {
     "context": "limit voucher",
@@ -16157,7 +16157,7 @@
   "sQMS4n": {
     "context": "Tooltip for the dismiss problem button",
     "en": "Force clear this error. Use if you know what you are doing",
-    "cs": ""
+    "cs": "Vynutit vymazání této chyby. Použijte, pokud víte, co děláte"
   },
   "sR0urA": {
     "context": "dialog content",
@@ -16197,12 +16197,12 @@
   "sZ4enl": {
     "context": "",
     "en": "Excludes results matching the term",
-    "cs": ""
+    "cs": "Vylučuje výsledky odpovídající výrazu"
   },
   "sZ8CgC": {
     "context": "screen reader announcement when matrix line is expanded",
     "en": "Shipments expanded for {productName}",
-    "cs": ""
+    "cs": "Zásilky rozbaleny pro {productName}"
   },
   "saKXY3": {
     "context": "product label",
@@ -16242,7 +16242,7 @@
   "sfEbeB": {
     "context": "",
     "en": "You're going to mark this order as paid.",
-    "cs": ""
+    "cs": "Chystáte se označit tuto objednávku jako zaplacenou."
   },
   "sfErC+": {
     "context": "",
@@ -16267,7 +16267,7 @@
   "sjRXXz": {
     "context": "",
     "en": "Order #{orderId} was placed from draft by {userEmail}",
-    "cs": ""
+    "cs": "Objednávka č. {orderId} byla zadána z konceptu uživatelem {userEmail}"
   },
   "skEK/i": {
     "context": "section header",
@@ -16297,7 +16297,7 @@
   "spjKeI": {
     "context": "",
     "en": "Fulfillment approved",
-    "cs": ""
+    "cs": "Vyřízení schváleno"
   },
   "srtbbS": {
     "context": "gift card currency mismatch with delivery channel callout",
@@ -16352,7 +16352,7 @@
   "t3aiWF": {
     "context": "section header",
     "en": "Excluded Products",
-    "cs": ""
+    "cs": "Vyloučené produkty"
   },
   "t4hWFu": {
     "context": "Shown while verification is in progress",
@@ -16377,7 +16377,7 @@
   "tELvPJ": {
     "context": "placeholder for model type tab grouping separator input",
     "en": "Comma-separated list of separators",
-    "cs": ""
+    "cs": "Seznam oddělovačů oddělených čárkami"
   },
   "tFx7UX": {
     "context": "Reassurance under verification badge when product is not visible to public API",
@@ -16407,7 +16407,7 @@
   "tLM9Jr": {
     "context": "",
     "en": "The operation cannot be performed right now. This might be due to a pending installation with the same identifier. {docsLink} ({errorCode})",
-    "cs": ""
+    "cs": "Operaci nelze nyní provést. Důvodem může být čekající instalace se stejným identifikátorem. {docsLink} ({errorCode})"
   },
   "tQA//+": {
     "context": "customer overview, recent net sales tooltip",
@@ -16417,7 +16417,7 @@
   "tR+UuE": {
     "context": "",
     "en": "User doesn't exist. Please check your email in URL",
-    "cs": ""
+    "cs": "Uživatel neexistuje. Zkontrolujte prosím svůj e-mail v URL"
   },
   "tS2K/N": {
     "context": "radio option for capturing order total",
@@ -16437,12 +16437,12 @@
   "tUlsq+": {
     "context": "",
     "en": "Translating",
-    "cs": ""
+    "cs": "Překládání"
   },
   "tV+Dcm": {
     "context": "",
     "en": "Default country",
-    "cs": ""
+    "cs": "Výchozí země"
   },
   "tV5QlB": {
     "context": "",
@@ -16532,7 +16532,7 @@
   "tpM9O2": {
     "context": "empty state when attribute is not assigned to product types",
     "en": "Not used on any product types yet.",
-    "cs": ""
+    "cs": "Zatím není použito u žádného typu produktu."
   },
   "tqJwfo": {
     "context": "button",
@@ -16682,7 +16682,7 @@
   "uCJ+gT": {
     "context": "model metadata dialog header",
     "en": "Model Metadata",
-    "cs": ""
+    "cs": "Metadata modelu"
   },
   "uCn/rd": {
     "context": "dialog header",
@@ -16747,7 +16747,7 @@
   "uRfta0": {
     "context": "Enable email confirmation",
     "en": "Enable email confirmation",
-    "cs": ""
+    "cs": "Povolit potvrzení e-mailu"
   },
   "uT3VS+": {
     "context": "promotion status",
@@ -16877,7 +16877,7 @@
   "uo8NOT": {
     "context": "",
     "en": "unknown",
-    "cs": ""
+    "cs": "neznámé"
   },
   "uoKAmI": {
     "context": "",
@@ -16912,7 +16912,7 @@
   "uwO3oC": {
     "context": "",
     "en": "An unexpected error occurred while saving the extension.",
-    "cs": ""
+    "cs": "Při ukládání rozšíření došlo k neočekávané chybě."
   },
   "uwk5e9": {
     "context": "",
@@ -16942,7 +16942,7 @@
   "v0fBOU": {
     "context": "",
     "en": "Collapse all",
-    "cs": ""
+    "cs": "Sbalit vše"
   },
   "v17EX7": {
     "context": "built-in attribute list filter preset",
@@ -16952,7 +16952,7 @@
   "v17Lly": {
     "context": "label",
     "en": "Max Delivery Time",
-    "cs": ""
+    "cs": "Max. doba doručení"
   },
   "v1vJ77": {
     "context": "",
@@ -16972,17 +16972,17 @@
   "v286+q": {
     "context": "card header and checkbox label",
     "en": "Allow storefront traffic",
-    "cs": ""
+    "cs": "Povolit provoz obchodu"
   },
   "v3WWK+": {
     "context": "",
     "en": "Status is invalid",
-    "cs": ""
+    "cs": "Stav je neplatný"
   },
   "v5yLSE": {
     "context": "section title",
     "en": "Stock availability",
-    "cs": ""
+    "cs": "Dostupnost zásob"
   },
   "v6GMvG": {
     "context": "settings search alias",
@@ -17007,7 +17007,7 @@
   "v9D1pm": {
     "context": "automatic completion cut-off date info message",
     "en": "Setting a cut-off date will not stop checkouts that are already in the process of being completed.",
-    "cs": ""
+    "cs": "Nastavení data uzávěrky nezastaví objednávky, které již jsou v procesu dokončování."
   },
   "vAxm7u": {
     "context": "",
@@ -17017,7 +17017,7 @@
   "vC8vyb": {
     "context": "enabled status option label",
     "en": "Enabled",
-    "cs": ""
+    "cs": "Zapnuto"
   },
   "vCw7BP": {
     "context": "requires activation checkbox label",
@@ -17072,7 +17072,7 @@
   "vMo6/3": {
     "context": "",
     "en": "Tracking: {trackingNumber}",
-    "cs": ""
+    "cs": "Sledování: {trackingNumber}"
   },
   "vN3qdA": {
     "context": "button",
@@ -17112,7 +17112,7 @@
   "vTPu1s": {
     "context": "",
     "en": "Code Quantity (max {maxCodes})",
-    "cs": ""
+    "cs": "Počet kódů (max {maxCodes})"
   },
   "vTgRTZ": {
     "context": "limit voucher",
@@ -17122,7 +17122,7 @@
   "vUY6ir": {
     "context": "",
     "en": "Amount must be higher than 0 when you transfer funds",
-    "cs": ""
+    "cs": "Částka musí být vyšší než 0 při převodu prostředků"
   },
   "vV9xwl": {
     "context": "order line discount added title",
@@ -17192,7 +17192,7 @@
   "vcMnX2": {
     "context": "unfulfilled fulfillment, section header",
     "en": "Unfulfilled order lines",
-    "cs": ""
+    "cs": "Nevyřízené položky objednávky"
   },
   "vcwrgW": {
     "context": "",
@@ -17207,7 +17207,7 @@
   "ve/Sph": {
     "context": "there are more elements of list that are hidden",
     "en": "and {number} more",
-    "cs": ""
+    "cs": "a {number} dalších"
   },
   "vf56In": {
     "context": "address type",
@@ -17237,7 +17237,7 @@
   "vjsfyn": {
     "context": "",
     "en": "Max Value",
-    "cs": ""
+    "cs": "Max. hodnota"
   },
   "vkAWwY": {
     "context": "gift card history message",
@@ -17247,7 +17247,7 @@
   "vlLyvk": {
     "context": "",
     "en": "{inputType} attributes cannot be used as variant selection attributes.",
-    "cs": ""
+    "cs": "Atributy typu {inputType} nelze použít jako atributy výběru variant."
   },
   "vlRrLz": {
     "context": "Warning when user moves publication date to the future",
@@ -17367,7 +17367,7 @@
   "w1puHO": {
     "context": "caption",
     "en": "If enabled, a value must be provided when this attribute is used.",
-    "cs": ""
+    "cs": "Pokud je zapnuto, při použití tohoto atributu musí být zadána hodnota."
   },
   "w2Cewo": {
     "context": "",
@@ -17377,7 +17377,7 @@
   "w2eTzO": {
     "context": "placed orders counter",
     "en": "{count}/{max} orders",
-    "cs": ""
+    "cs": "{count}/{max} objednávek"
   },
   "w3gxER": {
     "context": "",
@@ -17402,7 +17402,7 @@
   "w6kcxY": {
     "context": "",
     "en": "What happens if I approve?",
-    "cs": ""
+    "cs": "Co se stane, když schválím?"
   },
   "w7jT4W": {
     "context": "",
@@ -17447,7 +17447,7 @@
   "wFsAkW": {
     "context": "file attribute dropzone hint when replacing an existing file",
     "en": "Drop to replace",
-    "cs": ""
+    "cs": "Přetáhněte pro nahrazení"
   },
   "wJep/X": {
     "context": "refund amounts were settled",
@@ -17492,7 +17492,7 @@
   "wS1Wms": {
     "context": "seo title field hint",
     "en": "Title tag shown in browser tabs and search results",
-    "cs": ""
+    "cs": "Titulek zobrazovaný v záložkách prohlížeče a ve výsledcích vyhledávání"
   },
   "wTHjt3": {
     "context": "",
@@ -17512,7 +17512,7 @@
   "wVjyOX": {
     "context": "",
     "en": "Fully authorised",
-    "cs": ""
+    "cs": "Plně autorizováno"
   },
   "wWELJW": {
     "context": "search results",
@@ -17617,12 +17617,12 @@
   "wn3di2": {
     "context": "",
     "en": "This password is too commonly used",
-    "cs": ""
+    "cs": "Toto heslo je příliš běžně používané"
   },
   "wo7tA9": {
     "context": "automatic completion cut-off date checkbox label",
     "en": "Custom cut-off date",
-    "cs": ""
+    "cs": "Vlastní datum uzávěrky"
   },
   "wpAXKX": {
     "context": "checkbox label description",
@@ -17657,7 +17657,7 @@
   "wu/9MB": {
     "context": "label for enabling grouped model type tabs",
     "en": "Group similar model types",
-    "cs": ""
+    "cs": "Seskupit podobné typy modelů"
   },
   "x/N8AY": {
     "context": "field translation status",
@@ -17757,7 +17757,7 @@
   "xJEaxW": {
     "context": "",
     "en": "added",
-    "cs": ""
+    "cs": "přidáno"
   },
   "xJQX5t": {
     "context": "",
@@ -17767,7 +17767,7 @@
   "xKLf5H": {
     "context": "",
     "en": "Developed by {developer}",
-    "cs": ""
+    "cs": "Vyvinul {developer}"
   },
   "xNElry": {
     "context": "Transaction card title with name",
@@ -17812,7 +17812,7 @@
   "xUUaUR": {
     "context": "hint for model type tab grouping separator input",
     "en": "Split at the first match. Separate multiple with commas.",
-    "cs": ""
+    "cs": "Rozdělí podle první shody. Více oddělovačů oddělte čárkami."
   },
   "xVn5B0": {
     "context": "added new attribute value",
@@ -17892,7 +17892,7 @@
   "xqXYF+": {
     "context": "section header",
     "en": "Eligible Products",
-    "cs": ""
+    "cs": "Způsobilé produkty"
   },
   "xrCRnH": {
     "context": "",
@@ -17952,7 +17952,7 @@
   "y/ImBd": {
     "context": "create attribute dialog step one intro for model types",
     "en": "Attributes store extra fields on models of this type, such as materials or care instructions.",
-    "cs": ""
+    "cs": "Atributy ukládají dodatečná pole u modelů tohoto typu, jako jsou materiály nebo pokyny k péči."
   },
   "y/UWBR": {
     "context": "",
@@ -17962,7 +17962,7 @@
   "y/vChh": {
     "context": "Suffix appended to problem count when critical problems exist",
     "en": "including {count} critical",
-    "cs": ""
+    "cs": "včetně {count} kritických"
   },
   "y08GTW": {
     "context": "",
@@ -17977,7 +17977,7 @@
   "y7mfbl": {
     "context": "",
     "en": "Currently, there are no countries assigned to this shipping zone",
-    "cs": ""
+    "cs": "Aktuálně nejsou k této dopravní oblasti přiřazeny žádné země"
   },
   "y8E0iG": {
     "context": "seo incomplete text",
@@ -18112,12 +18112,12 @@
   "yeX6fA": {
     "context": "extensions page subheader",
     "en": "Learn more about {extensions}",
-    "cs": ""
+    "cs": "Zjistit více o {extensions}"
   },
   "ygPAC7": {
     "context": "Tooltip explaining the app-reported problem badge",
     "en": "This message comes from the app",
-    "cs": ""
+    "cs": "Tato zpráva pochází z aplikace"
   },
   "ygxco/": {
     "context": "tooltip, submit form",
@@ -18137,7 +18137,7 @@
   "yi1HSj": {
     "context": "",
     "en": "({numberOfCharacters} of {maxCharacters} characters)",
-    "cs": ""
+    "cs": "({numberOfCharacters} z {maxCharacters} znaků)"
   },
   "yivxZJ": {
     "context": "order payment",
@@ -18217,7 +18217,7 @@
   "z3w/oL": {
     "context": "",
     "en": "You must provide amount value",
-    "cs": ""
+    "cs": "Musíte zadat hodnotu částky"
   },
   "z45PdE": {
     "context": "order status",
@@ -18257,7 +18257,7 @@
   "zDvDnG": {
     "context": "modal header",
     "en": "Media from the URL you supply will be shown in the media gallery. You will be able to define the order of the gallery.",
-    "cs": ""
+    "cs": "Média z vámi zadané URL se zobrazí v galerii médií. Budete moci definovat pořadí galerie."
   },
   "zGvkK2": {
     "context": "usage summary when attribute is on both product and variant types",
@@ -18322,7 +18322,7 @@
   "zRIsjN": {
     "context": "",
     "en": "Learn more about {apiReference} and view {apiGuide}",
-    "cs": ""
+    "cs": "Zjistit více o {apiReference} a zobrazit {apiGuide}"
   },
   "zRrcOG": {
     "context": "order history message",
@@ -18332,7 +18332,7 @@
   "zSDfq0": {
     "context": "",
     "en": "Use flat tax rate",
-    "cs": ""
+    "cs": "Použít pevnou daňovou sazbu"
   },
   "zSOvI0": {
     "context": "",
@@ -18342,7 +18342,7 @@
   "zT1CvH": {
     "context": "",
     "en": "Learn more about {extendingSaleor}",
-    "cs": ""
+    "cs": "Zjistit více o {extendingSaleor}"
   },
   "zUHPnm": {
     "context": "fulfillment status returned",
@@ -18447,7 +18447,7 @@
   "zo5aT3": {
     "context": "",
     "en": "Warehouse Metadata",
-    "cs": ""
+    "cs": "Metadata skladu"
   },
   "zoUlyR": {
     "context": "",
@@ -18492,12 +18492,12 @@
   "zyXcBP": {
     "context": "",
     "en": "Sorting by this column requires active filter: {filterName}",
-    "cs": ""
+    "cs": "Řazení podle tohoto sloupce vyžaduje aktivní filtr: {filterName}"
   },
   "zyceue": {
     "context": "placed order counter",
     "en": "{count}/{max} orders",
-    "cs": ""
+    "cs": "{count}/{max} objednávek"
   },
   "zzfj8H": {
     "context": "label",
