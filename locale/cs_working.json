@@ -2902,7 +2902,7 @@
   "8liGHT": {
     "context": "configuration menu item description for order settings",
     "en": "Configure order processing, fulfillment, checkout stock, and returns",
-    "cs": "Konfigurace zpracování objednávek, vyřízení, zásob při dokončení a vrácení"
+    "cs": "Konfigurace vyřízení objednávek, vyřízení, zásob při dokončení a vrácení"
   },
   "8maISA": {
     "context": "deactivate customer dialog, header",
@@ -11162,7 +11162,7 @@
   "bKCoN5": {
     "context": "order line discount updated title",
     "en": "{productName} discount was updated",
-    "cs": "{proouctName} oiscount was aktualizován"
+    "cs": "Sleva na {productName} byla aktualizována"
   },
   "bKTEnb": {
     "context": "button to cancel order",
@@ -11252,7 +11252,7 @@
   "bb4nSp": {
     "context": "dialog header",
     "en": "Cancel Fulfillment",
-    "cs": "Zrušit zpracování"
+    "cs": "Zrušit vyřízení"
   },
   "bbBirg": {
     "context": "empty state when attribute is not assigned to model types",
@@ -13937,7 +13937,7 @@
   "kv3FWU": {
     "context": "btn label",
     "en": "Go to orders",
-    "cs": "Přejít na orders"
+    "cs": "Přejít na objednávky"
   },
   "kvsZ4J": {
     "context": "copy gift card code error",
@@ -14247,7 +14247,7 @@
   "lrq8O6": {
     "context": "order refund amount, input label",
     "en": "Amount",
-    "cs": "Množství"
+    "cs": "Částka"
   },
   "lsPIVu": {
     "context": "factor label when multiple order-level discounts contributed to a line; the per-record split is not stored by Saleor so we show the combined slice with the contributing records named below",
@@ -15332,7 +15332,7 @@
   "pkjXPD": {
     "context": "order status",
     "en": "Fulfilled",
-    "cs": "Zpracováno"
+    "cs": "Vyřízeno"
   },
   "ppLwx3": {
     "context": "number of categories",
@@ -16482,7 +16482,7 @@
   "tcOGcd": {
     "context": "matrix section description on editable orders hub",
     "en": "Edit per-channel values here or open a channel for checkout, payment, and other channel settings.",
-    "cs": "Upravit per-channel values here or open a channel for checkout, payment, and other channel settings."
+    "cs": "Upravte hodnoty pro jednotlivé kanály zde nebo otevřete kanál pro nastavení dokončení objednávky, plateb a dalších nastavení kanálu."
   },
   "teWSsc": {
     "context": "assign warehouse dialog search label",
