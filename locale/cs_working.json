@@ -4272,7 +4272,7 @@
   "DK+8PB": {
     "context": "",
     "en": "This channel has already been created",
-    "cs": "This channel has alreaoy been vytvořen"
+    "cs": "Tento kanál již byl vytvořen"
   },
   "DM/Ha1": {
     "context": "add postal code range, button",
@@ -13027,7 +13027,7 @@
   "i3Mvj8": {
     "context": "product attribute error",
     "en": "This variant already exists",
-    "cs": "This variant již existuje"
+    "cs": "Tato varianta již existuje"
   },
   "i3r9KP": {
     "context": "Checkbox label for scheduling availability for a future date",
