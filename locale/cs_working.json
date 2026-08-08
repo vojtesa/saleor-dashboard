@@ -4357,7 +4357,7 @@
   "Dd0Dwl": {
     "context": "",
     "en": "Go to promotions",
-    "cs": "Přejít na promotions"
+    "cs": "Přejít na akce"
   },
   "Dg4Y2p": {
     "context": "set shipping method link when no shipping method selected",
@@ -13407,7 +13407,7 @@
   "jNoqH0": {
     "context": "",
     "en": "Create promotion",
-    "cs": "Vytvořit promotion"
+    "cs": "Vytvořit akci"
   },
   "jOgiMP": {
     "context": "",
@@ -14702,7 +14702,7 @@
   "nVIFGq": {
     "context": "empty state when settings search has no results",
     "en": "No settings match “{query}”.",
-    "cs": "Žádné settings match “{query}”."
+    "cs": "Žádná nastavení neodpovídají \"{query}\"."
   },
   "nX2pCU": {
     "context": "window title",
