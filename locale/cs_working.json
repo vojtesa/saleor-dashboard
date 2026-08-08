@@ -282,7 +282,7 @@
   "/2OOMe": {
     "context": "product type shipping settings, section header",
     "en": "Shipping",
-    "cs": "Dopravné"
+    "cs": "Doprava"
   },
   "/2o5cH": {
     "context": "section description",
@@ -387,7 +387,7 @@
   "/WXs6H": {
     "context": "collection name",
     "en": "Name",
-    "cs": "Jméno"
+    "cs": "Název"
   },
   "/ayo3Z": {
     "context": "error when channel order settings fail to save from orders hub",
@@ -1167,7 +1167,7 @@
   "2OH46U": {
     "context": "search modal shipping title",
     "en": "Shipping address",
-    "cs": "Dodací adresa"
+    "cs": "Doručovací adresa"
   },
   "2R4joj": {
     "context": "settings ownership badge — shop-scoped setting",
@@ -1557,7 +1557,7 @@
   "3rIMq/": {
     "context": "product shipping",
     "en": "Shipping",
-    "cs": "Dopravné"
+    "cs": "Doprava"
   },
   "3tbL7x": {
     "context": "description",
@@ -2192,7 +2192,7 @@
   "6AMFki": {
     "context": "product name",
     "en": "Name",
-    "cs": "Jméno"
+    "cs": "Název"
   },
   "6C1RWA": {
     "context": "",
@@ -3487,7 +3487,7 @@
   "Ai4XSg": {
     "context": "shown when shipping address is required but not set",
     "en": "No shipping address",
-    "cs": "Žádná dodací adresa"
+    "cs": "Žádná doručovací adresa"
   },
   "AiurXc": {
     "context": "",
@@ -4717,7 +4717,7 @@
   "F56hOz": {
     "context": "sale name",
     "en": "Name",
-    "cs": "Jméno"
+    "cs": "Název"
   },
   "F62RkR": {
     "context": "dialog header",
@@ -5132,7 +5132,7 @@
   "GLX9II": {
     "context": "billing address",
     "en": "Same as shipping address",
-    "cs": "Stejné jako dodací adresa"
+    "cs": "Stejné jako doručovací adresa"
   },
   "GLsIie": {
     "context": "model label",
@@ -9197,7 +9197,7 @@
   "UhcALJ": {
     "context": "attribute name",
     "en": "Name",
-    "cs": "Jméno"
+    "cs": "Název"
   },
   "UhqCK5": {
     "context": "help section example in model type tab grouping help tooltip",
@@ -9372,7 +9372,7 @@
   "VEE4gD": {
     "context": "error message",
     "en": "Shipping method is not valid for chosen shipping address",
-    "cs": "Způsob odeslání není platný pro vybranou dodací adresu"
+    "cs": "Způsob odeslání není platný pro vybranou doručovací adresu"
   },
   "VEext+": {
     "context": "",
@@ -9607,7 +9607,7 @@
   "W8i2Ez": {
     "context": "product field",
     "en": "Name",
-    "cs": "Jméno"
+    "cs": "Název"
   },
   "WAcPLa": {
     "context": "settings search alias",
@@ -9832,7 +9832,7 @@
   "X6PF8z": {
     "context": "entity (product, collection, shipping method) name",
     "en": "Name",
-    "cs": "Jméno"
+    "cs": "Název"
   },
   "X6Ql+m": {
     "context": "empty state for channel settings matrix",
@@ -10817,7 +10817,7 @@
   "aCJwVq": {
     "context": "warehouse",
     "en": "Name",
-    "cs": "Jméno"
+    "cs": "Název"
   },
   "aCdAsI": {
     "context": "",
@@ -10887,7 +10887,7 @@
   "aPCrsp": {
     "context": "shipping method name",
     "en": "Name",
-    "cs": "Jméno"
+    "cs": "Název"
   },
   "aPYFO1": {
     "context": "expired status label",
@@ -12572,7 +12572,7 @@
   "gRa/TS": {
     "context": "shipping zone",
     "en": "Name",
-    "cs": "Jméno"
+    "cs": "Název"
   },
   "gSQ0Ge": {
     "context": "",
