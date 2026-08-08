@@ -2367,7 +2367,7 @@
   "6iw4VR": {
     "context": "delete variant dialog title",
     "en": "Delete Product Variants",
-    "cs": "Smazat product variants"
+    "cs": "Smazat varianty produktu"
   },
   "6j4TUi": {
     "context": "",
@@ -2647,7 +2647,7 @@
   "7hNjaI": {
     "context": "button",
     "en": "Delete Variant",
-    "cs": "Smazat variant"
+    "cs": "Smazat variantu"
   },
   "7jxSx8": {
     "context": "Installed extensions column name",
@@ -2672,7 +2672,7 @@
   "7scATx": {
     "context": "select title",
     "en": "Select channels you want for {contentType} to be available on",
-    "cs": "Vybrat channels you want for {contentType} to be available on"
+    "cs": "Vyberte kanály, ve kterých chcete, aby byl {contentType} dostupný"
   },
   "7vnKNE": {
     "context": "structure item name",
@@ -2882,7 +2882,7 @@
   "8hrH/z": {
     "context": "dialog header",
     "en": "Search Category",
-    "cs": "Hledat Category"
+    "cs": "Hledat kategorii"
   },
   "8iUzOU": {
     "context": "allow unpaid orders checbkox description",
@@ -3057,7 +3057,7 @@
   "9CEu8k": {
     "context": "modal button images upload",
     "en": "Upload Images",
-    "cs": "Nahrát Images"
+    "cs": "Nahrát obrázky"
   },
   "9CW3TD": {
     "context": "label",
@@ -3227,7 +3227,7 @@
   "9d24PR": {
     "context": "",
     "en": "Create rule",
-    "cs": "Vytvořit rule"
+    "cs": "Vytvořit pravidlo"
   },
   "9eC0MZ": {
     "context": "collection",
@@ -3357,7 +3357,7 @@
   "AB4VSm": {
     "context": "PageTypeDeleteWarningDialog single assigned items button label",
     "en": "View models",
-    "cs": "Zobrazit models"
+    "cs": "Zobrazit modely"
   },
   "AD1PlC": {
     "context": "channels availability text",
@@ -3477,7 +3477,7 @@
   "AgHhjW": {
     "context": "dialog header",
     "en": "Delete models",
-    "cs": "Smazat models"
+    "cs": "Smazat modely"
   },
   "AgY5Mv": {
     "context": "attribute properties regarding storefront",
@@ -3687,7 +3687,7 @@
   "BR8au7": {
     "context": "delete channel",
     "en": "Select channel that you wish to move existing orders to.",
-    "cs": "Vybrat channel that you wish to move existing orders to."
+    "cs": "Vyberte kanál, do kterého chcete přesunout existující objednávky."
   },
   "BSGid2": {
     "context": "Advisory badge shown next to a webhook event in the picker when the event only fires while the shop has the direct (non-legacy) warehouse-channel stock-availability mode enabled.",
@@ -4517,7 +4517,7 @@
   "EM730i": {
     "context": "",
     "en": "Manage Channel Availability",
-    "cs": "Spravovat Channel Availability"
+    "cs": "Spravovat dostupnost kanálu"
   },
   "EMQgvH": {
     "context": "file attribute empty dropzone hint",
@@ -4572,7 +4572,7 @@
   "Eau5AV": {
     "context": "",
     "en": "Manage Products Channel Availability",
-    "cs": "Spravovat Products Channel Availability"
+    "cs": "Spravovat dostupnost produktů v kanálu"
   },
   "EbVf0Z": {
     "context": "transaction reference",
@@ -4712,7 +4712,7 @@
   "F4WdSO": {
     "context": "dialog header",
     "en": "Delete Products",
-    "cs": "Smazat products"
+    "cs": "Smazat produkty"
   },
   "F56hOz": {
     "context": "sale name",
@@ -4812,7 +4812,7 @@
   "FTYkgw": {
     "context": "",
     "en": "Delete collections",
-    "cs": "Smazat collections"
+    "cs": "Smazat kolekce"
   },
   "FWaL+x": {
     "context": "gift card history message",
@@ -4822,7 +4822,7 @@
   "FWbv/u": {
     "context": "page header",
     "en": "Create Discount",
-    "cs": "Vytvořit discount"
+    "cs": "Vytvořit slevu"
   },
   "FX7ts2": {
     "context": "error message",
@@ -4892,7 +4892,7 @@
   "FiO/W/": {
     "context": "",
     "en": "Delete categories",
-    "cs": "Smazat categories"
+    "cs": "Smazat kategorie"
   },
   "FjywW1": {
     "context": "automatic completion delay input description",
@@ -5072,7 +5072,7 @@
   "GCPzKf": {
     "context": "ProductTypeDeleteWarningDialog single assigned items button label",
     "en": "View products",
-    "cs": "Zobrazit products"
+    "cs": "Zobrazit produkty"
   },
   "GCho9N": {
     "context": "delete channel",
@@ -5092,7 +5092,7 @@
   "GFJabu": {
     "context": "dialog header",
     "en": "Delete Variant",
-    "cs": "Smazat variant"
+    "cs": "Smazat variantu"
   },
   "GFioCC": {
     "context": "models section name",
@@ -5257,7 +5257,7 @@
   "GhcypC": {
     "context": "header",
     "en": "Create Warehouse",
-    "cs": "Vytvořit warehouse"
+    "cs": "Vytvořit sklad"
   },
   "GiDxS4": {
     "context": "add metadata field,button",
@@ -5602,7 +5602,7 @@
   "HpxNPd": {
     "context": "",
     "en": "Add discount",
-    "cs": "Přidat discount"
+    "cs": "Přidat slevu"
   },
   "HqRNN8": {
     "context": "",
@@ -5677,7 +5677,7 @@
   "I1Mz7h": {
     "context": "",
     "en": "Manage Collection Channel Availability",
-    "cs": "Spravovat Collection Channel Availability"
+    "cs": "Spravovat dostupnost kolekce v kanálu"
   },
   "I2wCwj": {
     "context": "swatch attribute image label",
@@ -5807,7 +5807,7 @@
   "INw68F": {
     "context": "",
     "en": "Search model types...",
-    "cs": "Hledat model types..."
+    "cs": "Hledat typy modelů..."
   },
   "IOg+Hh": {
     "context": "",
@@ -5887,7 +5887,7 @@
   "Ic7Wln": {
     "context": "card subtitle",
     "en": "Select shipping zones that will be supplied via this channel. You can assign shipping zones to multiple channels.",
-    "cs": "Vybrat shipping zones that will be supplied via this channel. You can assign shipping zones to multiple channels."
+    "cs": "Vyberte dopravní oblasti, které budou zásobovány prostřednictvím tohoto kanálu. Dopravní oblasti můžete přiřadit k více kanálům."
   },
   "IcTtTE": {
     "context": "Description for live status",
@@ -5912,12 +5912,12 @@
   "Ihp4D3": {
     "context": "header",
     "en": "Edit Media",
-    "cs": "Upravit media"
+    "cs": "Upravit média"
   },
   "Ila7WO": {
     "context": "change warehouse dialog description",
     "en": "Choose warehouse from which you want to fulfill {productName}",
-    "cs": "Vybrat warehouse from which you want to fulfill {productName}"
+    "cs": "Vyberte sklad, ze kterého chcete vyřídit {productName}"
   },
   "IoCMjg": {
     "context": "no collections",
@@ -5952,7 +5952,7 @@
   "IzECoP": {
     "context": "",
     "en": "Search draft orders...",
-    "cs": "Hledat draft orders..."
+    "cs": "Hledat koncepty objednávek..."
   },
   "IzEVek": {
     "context": "bulk disable label",
@@ -6047,7 +6047,7 @@
   "JFmOfi": {
     "context": "button",
     "en": "Create Product",
-    "cs": "Vytvořit product"
+    "cs": "Vytvořit produkt"
   },
   "JFtFgc": {
     "context": "tabel column header",
@@ -6062,7 +6062,7 @@
   "JI2Xwp": {
     "context": "dialog title",
     "en": "Delete attribute",
-    "cs": "Smazat attribute"
+    "cs": "Smazat atribut"
   },
   "JIQ7KX": {
     "context": "",
@@ -6297,7 +6297,7 @@
   "K+vjtE": {
     "context": "",
     "en": "Search Variants",
-    "cs": "Hledat Variants"
+    "cs": "Hledat varianty"
   },
   "K//bUK": {
     "context": "refund button",
@@ -6512,7 +6512,7 @@
   "Kxiige": {
     "context": "",
     "en": "Generated Token",
-    "cs": "Generovat Token"
+    "cs": "Generovat token"
   },
   "KzgcFV": {
     "context": "category attribute entity type",
@@ -6577,7 +6577,7 @@
   "LATHyi": {
     "context": "dialog header",
     "en": "Delete Channel: {channelSlug}",
-    "cs": "Smazat Channel: {channelSlug}"
+    "cs": "Smazat kanál: {channelSlug}"
   },
   "LApQsw": {
     "context": "create attribute from product type, button",
@@ -6987,7 +6987,7 @@
   "MdFdbd": {
     "context": "",
     "en": "Delete rule",
-    "cs": "Smazat rule"
+    "cs": "Smazat pravidlo"
   },
   "MewrtN": {
     "context": "section header",
@@ -7047,7 +7047,7 @@
   "MqFTyz": {
     "context": "product type detail cogs menu, opens the delete-confirmation dialog",
     "en": "Delete product type",
-    "cs": "Smazat product type"
+    "cs": "Smazat typ produktu"
   },
   "MwfSVA": {
     "context": "input helper text",
@@ -7062,7 +7062,7 @@
   "MyM2oR": {
     "context": "window title",
     "en": "Create variant",
-    "cs": "Vytvořit variant"
+    "cs": "Vytvořit variantu"
   },
   "Myx1Qp": {
     "context": "add discount button",
@@ -7117,7 +7117,7 @@
   "N6s/fl": {
     "context": "",
     "en": "Edit order line metadata",
-    "cs": "Upravit order line metadata"
+    "cs": "Upravit metadata položky objednávky"
   },
   "N76zUg": {
     "context": "page header",
@@ -7142,7 +7142,7 @@
   "NBP8uu": {
     "context": "page header",
     "en": "New Product",
-    "cs": "Nový Product"
+    "cs": "Nový produkt"
   },
   "NCp87D": {
     "context": "no warehouses info",
@@ -7337,7 +7337,7 @@
   "Nqh0na": {
     "context": "Product types search input placeholder",
     "en": "Search product types...",
-    "cs": "Hledat product types..."
+    "cs": "Hledat typy produktů..."
   },
   "Nsbu46": {
     "context": "Placeholder for channel search input",
@@ -7472,7 +7472,7 @@
   "OGm8wO": {
     "context": "button",
     "en": "Create Channel",
-    "cs": "Vytvořit channel"
+    "cs": "Vytvořit kanál"
   },
   "OK5+Fh": {
     "context": "",
@@ -7602,7 +7602,7 @@
   "OrMr/k": {
     "context": "window title",
     "en": "Create Channel",
-    "cs": "Vytvořit channel"
+    "cs": "Vytvořit kanál"
   },
   "OrR3Qy": {
     "context": "no products",
@@ -7737,7 +7737,7 @@
   "PDw0YN": {
     "context": "open new window button",
     "en": "Open this product in GraphiQL",
-    "cs": "Otevřít this product in GraphiQL"
+    "cs": "Otevřít tento produkt v GraphiQL"
   },
   "PF7Zsp": {
     "context": "Status when product has availability issues",
@@ -7827,7 +7827,7 @@
   "PXx4Jk": {
     "context": "window title",
     "en": "Create Product",
-    "cs": "Vytvořit product"
+    "cs": "Vytvořit produkt"
   },
   "PaQFmR": {
     "context": "onboarding step title",
@@ -8122,7 +8122,7 @@
   "QOm7+P": {
     "context": "",
     "en": "Create new order",
-    "cs": "Vytvořit new order"
+    "cs": "Vytvořit novou objednávku"
   },
   "QQdTUC": {
     "context": "order header date, less than a minute ago",
@@ -8182,7 +8182,7 @@
   "QdanQw": {
     "context": "dialog header",
     "en": "Delete Extension",
-    "cs": "Smazat extension"
+    "cs": "Smazat rozšíření"
   },
   "Qe4XHv": {
     "context": "years after label",
@@ -8502,7 +8502,7 @@
   "S22jIs": {
     "context": "button",
     "en": "Set new password",
-    "cs": "Nastavit new password"
+    "cs": "Nastavit nové heslo"
   },
   "S2xLxV": {
     "context": "search placeholder",
@@ -8562,7 +8562,7 @@
   "SGdcJD": {
     "context": "",
     "en": "Enter code",
-    "cs": "Zadat code"
+    "cs": "Zadat kód"
   },
   "SHF+gG": {
     "context": "Clear filters button text",
@@ -8722,7 +8722,7 @@
   "Sz6CRr": {
     "context": "",
     "en": "Create new product",
-    "cs": "Vytvořit new product"
+    "cs": "Vytvořit nový produkt"
   },
   "Szr2Je": {
     "context": "bulk issue gift cards settings section header",
@@ -8767,7 +8767,7 @@
   "T6dXGG": {
     "context": "header",
     "en": "Create Variant",
-    "cs": "Vytvořit variant"
+    "cs": "Vytvořit variantu"
   },
   "T7Dju4": {
     "context": "replaced quantity column in line matrix",
@@ -8777,7 +8777,7 @@
   "T83iU7": {
     "context": "",
     "en": "Search categories...",
-    "cs": "Hledat categories..."
+    "cs": "Hledat kategorie..."
   },
   "T9zLm6": {
     "context": "",
@@ -8922,7 +8922,7 @@
   "TWVx7O": {
     "context": "delete product dialog title",
     "en": "Delete Product",
-    "cs": "Smazat product"
+    "cs": "Smazat produkt"
   },
   "TWoYMj": {
     "context": "",
@@ -9082,7 +9082,7 @@
   "U9CIo7": {
     "context": "button",
     "en": "Save variant",
-    "cs": "Uložit variant"
+    "cs": "Uložit variantu"
   },
   "U9TPGD": {
     "context": "Link to revert date change",
@@ -9327,7 +9327,7 @@
   "V/YxJa": {
     "context": "dialog header",
     "en": "Edit Shipping Method",
-    "cs": "Upravit shipping method"
+    "cs": "Upravit způsob dopravy"
   },
   "V1MytH": {
     "context": "shipping zones section name",
@@ -9622,7 +9622,7 @@
   "WCg2GZ": {
     "context": "change warehouse dialog search placeholder",
     "en": "Search warehouses",
-    "cs": "Hledat warehouses"
+    "cs": "Hledat sklady"
   },
   "WD+kjr": {
     "context": "page title - extensions",
@@ -9672,7 +9672,7 @@
   "WMN0q+": {
     "context": "",
     "en": "Delete voucher codes",
-    "cs": "Smazat voucher codes"
+    "cs": "Smazat kódy voucheru"
   },
   "WMNtD2": {
     "context": "",
@@ -10022,7 +10022,7 @@
   "XUU9sU": {
     "context": "section header",
     "en": "All Media",
-    "cs": "Všechny media"
+    "cs": "Všechna média"
   },
   "XVuPMw": {
     "context": "",
@@ -10357,7 +10357,7 @@
   "YicEbK": {
     "context": "",
     "en": "Search Atrtibuttes",
-    "cs": "Hledat Atrtibuttes"
+    "cs": "Hledat atributy"
   },
   "YjcN9w": {
     "context": "time during voucher is active, header",
@@ -10372,7 +10372,7 @@
   "Yk0avO": {
     "context": "dialog header",
     "en": "Delete Draft Order",
-    "cs": "Smazat draft order"
+    "cs": "Smazat koncept objednávky"
   },
   "YkOzse": {
     "context": "used warehouses counter",
@@ -10382,7 +10382,7 @@
   "Ykw8k5": {
     "context": "dialog title",
     "en": "Delete collections",
-    "cs": "Smazat collections"
+    "cs": "Smazat kolekce"
   },
   "YlJchr": {
     "context": "gift card history message",
@@ -10467,7 +10467,7 @@
   "YzoG9n": {
     "context": "dialog header",
     "en": "Delete promotion",
-    "cs": "Smazat promotion"
+    "cs": "Smazat akci"
   },
   "Z/7hyu": {
     "context": "card balance label",
@@ -10607,7 +10607,7 @@
   "ZRz3hM": {
     "context": "",
     "en": "Export Product Stock Quantity to CSV",
-    "cs": "Exportovat Product Stock Quantity to CSV"
+    "cs": "Exportovat množství zásob produktu do CSV"
   },
   "ZTG+Dv": {
     "context": "",
@@ -10847,7 +10847,7 @@
   "aHc89n": {
     "context": "select warehouse to restock items",
     "en": "Select Warehouse",
-    "cs": "Vybrat Warehouse"
+    "cs": "Vybrat sklad"
   },
   "aHoX+i": {
     "context": "Tooltip indicating a problem was dismissed by the app itself",
@@ -10902,7 +10902,7 @@
   "aRvO6i": {
     "context": "button",
     "en": "Assign Warehouses",
-    "cs": "Přiřadit Warehouses"
+    "cs": "Přiřadit sklady"
   },
   "aSn2Ud": {
     "context": "",
@@ -10982,7 +10982,7 @@
   "aenDwE": {
     "context": "",
     "en": "Manage extension",
-    "cs": "Spravovat extension"
+    "cs": "Spravovat rozšíření"
   },
   "aggaJg": {
     "context": "",
@@ -11277,7 +11277,7 @@
   "bfj3NC": {
     "context": "Button with Manage app label",
     "en": "Manage extension",
-    "cs": "Spravovat extension"
+    "cs": "Spravovat rozšíření"
   },
   "bfuxy3": {
     "context": "button, create new transaction with refund amount",
@@ -11457,7 +11457,7 @@
   "c5tWY8": {
     "context": "dialog title",
     "en": "Generate Variants",
-    "cs": "Generovat Variants"
+    "cs": "Generovat varianty"
   },
   "c7cakc": {
     "context": "model attribute entity type",
@@ -11477,7 +11477,7 @@
   "cBHRxx": {
     "context": "button",
     "en": "Assign Warehouse",
-    "cs": "Přiřadit Warehouse"
+    "cs": "Přiřadit sklad"
   },
   "cBrkEM": {
     "context": "shipping method channel status description when price missing",
@@ -11507,7 +11507,7 @@
   "cFA9vl": {
     "context": "link",
     "en": "View orders",
-    "cs": "Zobrazit orders"
+    "cs": "Zobrazit objednávky"
   },
   "cFVgOo": {
     "context": "Channel label",
@@ -11687,7 +11687,7 @@
   "cnvyqW": {
     "context": "ChannelsSection select field placeholder",
     "en": "Add Channel",
-    "cs": "Přidat channel"
+    "cs": "Přidat kanál"
   },
   "cohh4s": {
     "context": "Refund success status",
@@ -11702,7 +11702,7 @@
   "cpZLRH": {
     "context": "dialog header",
     "en": "Delete Shipping Zones",
-    "cs": "Smazat shipping zones"
+    "cs": "Smazat dopravní oblasti"
   },
   "cqZ5UH": {
     "context": "order history message",
@@ -11957,7 +11957,7 @@
   "dpXfQL": {
     "context": "channel link title and a11y label",
     "en": "View orders from {channelName}",
-    "cs": "Zobrazit orders from {channelName}"
+    "cs": "Zobrazit objednávky z {channelName}"
   },
   "drEC/t": {
     "context": "factor label for order promotion propagated to a line",
@@ -12087,7 +12087,7 @@
   "eRqx44": {
     "context": "",
     "en": "Search collections...",
-    "cs": "Hledat collections..."
+    "cs": "Hledat kolekce..."
   },
   "eS8xZ6": {
     "context": "card header",
@@ -12142,7 +12142,7 @@
   "ecM5eL": {
     "context": "page title - creating custom app",
     "en": "Add extension manually",
-    "cs": "Přidat extension manually"
+    "cs": "Přidat rozšíření ručně"
   },
   "empNV9": {
     "context": "add products button tooltip",
@@ -12197,7 +12197,7 @@
   "f0hXz4": {
     "context": "dialog header",
     "en": "Search Collection",
-    "cs": "Hledat Collection"
+    "cs": "Hledat kolekci"
   },
   "f1Pj99": {
     "context": "",
@@ -12227,7 +12227,7 @@
   "fEeZGG": {
     "context": "",
     "en": "Search Models",
-    "cs": "Hledat Models"
+    "cs": "Hledat modely"
   },
   "fEfCtO": {
     "context": "voucher discount type",
@@ -12282,7 +12282,7 @@
   "fP9FXB": {
     "context": "input label",
     "en": "Search Attributes",
-    "cs": "Hledat Attributes"
+    "cs": "Hledat atributy"
   },
   "fQ910i": {
     "context": "error message",
@@ -12347,7 +12347,7 @@
   "fg8dzN": {
     "context": "",
     "en": "Add condition",
-    "cs": "Přidat condition"
+    "cs": "Přidat podmínku"
   },
   "fhksPD": {
     "context": "",
@@ -12437,7 +12437,7 @@
   "fzk04H": {
     "context": "dialog title",
     "en": "Delete image",
-    "cs": "Smazat image"
+    "cs": "Smazat obrázek"
   },
   "fzl482": {
     "context": "expires on label",
@@ -12457,7 +12457,7 @@
   "g0GAdN": {
     "context": "",
     "en": "Delete attributes",
-    "cs": "Smazat attributes"
+    "cs": "Smazat atributy"
   },
   "g1KZlx": {
     "context": "caption explaining numeric attribute unit",
@@ -12692,7 +12692,7 @@
   "gzM1em": {
     "context": "",
     "en": "Add rule",
-    "cs": "Přidat rule"
+    "cs": "Přidat pravidlo"
   },
   "h0IgEq": {
     "context": "checkbox",
@@ -13152,7 +13152,7 @@
   "iWmfMe": {
     "context": "button",
     "en": "Create promotion",
-    "cs": "Vytvořit promotion"
+    "cs": "Vytvořit akci"
   },
   "iWtHOU": {
     "context": "subtitle when fulfill page opened for a single line from matrix",
@@ -13607,7 +13607,7 @@
   "k3EI/U": {
     "context": "dialog header",
     "en": "Delete Shipping Zone",
-    "cs": "Smazat shipping zone"
+    "cs": "Smazat dopravní oblast"
   },
   "k4brJy": {
     "context": "",
@@ -13732,7 +13732,7 @@
   "kIvvax": {
     "context": "",
     "en": "Search Products...",
-    "cs": "Hledat products..."
+    "cs": "Hledat produkty..."
   },
   "kJQczl": {
     "context": "sales section name",
@@ -14162,7 +14162,7 @@
   "leb986": {
     "context": "shipping method detail page, top-bar metadata button tooltip",
     "en": "Edit shipping method metadata",
-    "cs": "Upravit shipping method metadata"
+    "cs": "Upravit metadata způsobu dopravy"
   },
   "lehGc9": {
     "context": "section header",
@@ -14172,7 +14172,7 @@
   "lfXze9": {
     "context": "",
     "en": "Delete vouchers",
-    "cs": "Smazat vouchers"
+    "cs": "Smazat vouchery"
   },
   "lff45n": {
     "context": "factor label for an unattributed line-level adjustment that the dashboard could not match to any specific discount record",
@@ -14267,7 +14267,7 @@
   "lwjzVj": {
     "context": "",
     "en": "Edit order",
-    "cs": "Upravit order"
+    "cs": "Upravit objednávku"
   },
   "lxP7Rb": {
     "context": "warning notification when some product image uploads in a batch failed",
@@ -14347,7 +14347,7 @@
   "mFC5Rq": {
     "context": "",
     "en": "Assign Warehouses",
-    "cs": "Přiřadit Warehouses"
+    "cs": "Přiřadit sklady"
   },
   "mGiA6q": {
     "context": "modal button upload",
@@ -14362,7 +14362,7 @@
   "mIUNgR": {
     "context": "button",
     "en": "Create shipping zone",
-    "cs": "Vytvořit shipping zone"
+    "cs": "Vytvořit dopravní oblast"
   },
   "mKu838": {
     "context": "customer overview, value tooltip heading for shipping and refund breakdown",
@@ -14382,7 +14382,7 @@
   "mMOskm": {
     "context": "",
     "en": "Open product detail",
-    "cs": "Otevřít product detail"
+    "cs": "Otevřít detail produktu"
   },
   "mN/S07": {
     "context": "attribute entity type helper on full attribute form",
@@ -14437,7 +14437,7 @@
   "mX7zJJ": {
     "context": "header",
     "en": "Create Page",
-    "cs": "Vytvořit page"
+    "cs": "Vytvořit stránku"
   },
   "mYs3tb": {
     "context": "",
@@ -14642,7 +14642,7 @@
   "nKZUy3": {
     "context": "attribute detail page, top-bar metadata button tooltip",
     "en": "Edit attribute metadata",
-    "cs": "Upravit attribute metadata"
+    "cs": "Upravit metadata atributu"
   },
   "nKwgxY": {
     "context": "select label",
@@ -14662,7 +14662,7 @@
   "nNeWAx": {
     "context": "dialog header",
     "en": "Delete Shipping Method",
-    "cs": "Smazat shipping method"
+    "cs": "Smazat způsob dopravy"
   },
   "nOo0oL": {
     "context": "error message",
@@ -14817,7 +14817,7 @@
   "ny4zrH": {
     "context": "dialog title",
     "en": "Delete Warehouse",
-    "cs": "Smazat warehouse"
+    "cs": "Smazat sklad"
   },
   "nzycaQ": {
     "context": "gift card export dialog title",
@@ -14982,7 +14982,7 @@
   "oX2TAb": {
     "context": "",
     "en": "Select gifts",
-    "cs": "Vybrat gifts"
+    "cs": "Vybrat dárky"
   },
   "oYGfnY": {
     "context": "",
@@ -15102,7 +15102,7 @@
   "p2EAP0": {
     "context": "",
     "en": "Promotion removed",
-    "cs": "Promotion odebrán"
+    "cs": "Akce odebrána"
   },
   "p4X/0H": {
     "context": "button, assign variants to sale and save",
@@ -15272,7 +15272,7 @@
   "pVFoOk": {
     "context": "",
     "en": "Are you sure you want to delete {collectionName}?",
-    "cs": "Opravdu chcete smazat ollectionName}?"
+    "cs": "Opravdu chcete smazat {collectionName}?"
   },
   "pWClYm": {
     "context": "card title",
@@ -15402,7 +15402,7 @@
   "pznlvs": {
     "context": "variant sibling navigator search placeholder",
     "en": "Search variants",
-    "cs": "Hledat variants"
+    "cs": "Hledat varianty"
   },
   "q/FMPM": {
     "context": "dialog header",
@@ -15447,7 +15447,7 @@
   "q7v0W7": {
     "context": "save draft button",
     "en": "Save draft",
-    "cs": "Uložit draft"
+    "cs": "Uložit koncept"
   },
   "q8ep2I": {
     "context": "dialog header",
@@ -15537,7 +15537,7 @@
   "qMEm+l": {
     "context": "",
     "en": "Search Extensions...",
-    "cs": "Hledat extensions..."
+    "cs": "Hledat rozšíření..."
   },
   "qNcoRY": {
     "context": "notes about customer header",
@@ -15552,7 +15552,7 @@
   "qNpzxl": {
     "context": "",
     "en": "Open this category in GraphiQL",
-    "cs": "Otevřít this category in GraphiQL"
+    "cs": "Otevřít tuto kategorii v GraphiQL"
   },
   "qOXgxv": {
     "context": "gift card history message",
@@ -15667,7 +15667,7 @@
   "qbmeUI": {
     "context": "dialog header",
     "en": "Delete Order Drafts",
-    "cs": "Smazat order drafts"
+    "cs": "Smazat koncepty objednávek"
   },
   "qddy2Z": {
     "context": "order history message",
@@ -15767,7 +15767,7 @@
   "qvaap2": {
     "context": "order detail page, top-bar metadata button tooltip",
     "en": "Edit order metadata",
-    "cs": "Upravit order metadata"
+    "cs": "Upravit metadata objednávky"
   },
   "qwp4zK": {
     "context": "Health check subtitle when product can be purchased",
@@ -15872,7 +15872,7 @@
   "rKf4LU": {
     "context": "dialog title",
     "en": "Delete attributes",
-    "cs": "Smazat attributes"
+    "cs": "Smazat atributy"
   },
   "rKk1Fx": {
     "context": "matrix column header",
@@ -15942,7 +15942,7 @@
   "rbkmfG": {
     "context": "button",
     "en": "Delete variant",
-    "cs": "Smazat variant"
+    "cs": "Smazat variantu"
   },
   "rbrahO": {
     "context": "",
@@ -16097,7 +16097,7 @@
   "s6oAC+": {
     "context": "search label",
     "en": "Search products",
-    "cs": "Hledat products"
+    "cs": "Hledat produkty"
   },
   "s8e+7y": {
     "context": "",
@@ -16132,7 +16132,7 @@
   "sG0w22": {
     "context": "dialog title",
     "en": "Delete categories",
-    "cs": "Smazat categories"
+    "cs": "Smazat kategorie"
   },
   "sGDsFP": {
     "context": "header name input",
@@ -16487,7 +16487,7 @@
   "teWSsc": {
     "context": "assign warehouse dialog search label",
     "en": "Search warehouses",
-    "cs": "Hledat warehouses"
+    "cs": "Hledat sklady"
   },
   "tf+OkY": {
     "context": "link to edit variant metadata",
@@ -16627,7 +16627,7 @@
   "u30A+K": {
     "context": "variant media selection dialog subtitle",
     "en": "Choose product images to assign to this variant.",
-    "cs": "Vybrat product images to assign to this variant."
+    "cs": "Vyberte obrázky produktu pro přiřazení k této variantě."
   },
   "u34css": {
     "context": "label for empty list in channels list",
@@ -16687,7 +16687,7 @@
   "uCn/rd": {
     "context": "dialog header",
     "en": "Delete Image",
-    "cs": "Smazat image"
+    "cs": "Smazat obrázek"
   },
   "uD93er": {
     "context": "dialog header",
@@ -16872,7 +16872,7 @@
   "un+VWt": {
     "context": "",
     "en": "Search products",
-    "cs": "Hledat products"
+    "cs": "Hledat produkty"
   },
   "uo8NOT": {
     "context": "",
@@ -16897,7 +16897,7 @@
   "usPgB+": {
     "context": "configuration menu item description",
     "en": "Manage attributes used for product types",
-    "cs": "Spravovat attributes used for product types"
+    "cs": "Spravovat atributy použité pro typy produktů"
   },
   "usjqAQ": {
     "context": "Badge showing number of issues in a channel",
@@ -16917,12 +16917,12 @@
   "uwk5e9": {
     "context": "",
     "en": "Delete products",
-    "cs": "Smazat products"
+    "cs": "Smazat produkty"
   },
   "uxPpRx": {
     "context": "button",
     "en": "Assign attribute",
-    "cs": "Přiřadit attribute"
+    "cs": "Přiřadit atribut"
   },
   "uy+tB8": {
     "context": "voucher status",
@@ -16957,7 +16957,7 @@
   "v1vJ77": {
     "context": "",
     "en": "Edit rule",
-    "cs": "Upravit rule"
+    "cs": "Upravit pravidlo"
   },
   "v2+u4c": {
     "context": "card subtitle",
@@ -17317,7 +17317,7 @@
   "vyVVAW": {
     "context": "generate variants button",
     "en": "Generate variants",
-    "cs": "Generovat variants"
+    "cs": "Generovat varianty"
   },
   "vz1vWe": {
     "context": "caption",
@@ -17412,7 +17412,7 @@
   "wAGThK": {
     "context": "dialog header",
     "en": "Delete structures",
-    "cs": "Smazat structures"
+    "cs": "Smazat struktury"
   },
   "wAgQU+": {
     "context": "",
@@ -17497,7 +17497,7 @@
   "wTHjt3": {
     "context": "",
     "en": "Search Orders...",
-    "cs": "Hledat orders..."
+    "cs": "Hledat objednávky..."
   },
   "wUQCnQ": {
     "context": "Save filters button text",
@@ -17602,7 +17602,7 @@
   "wmdHhD": {
     "context": "button",
     "en": "Create Warehouse",
-    "cs": "Vytvořit warehouse"
+    "cs": "Vytvořit sklad"
   },
   "wmeRVH": {
     "context": "dialog header",
@@ -17707,7 +17707,7 @@
   "x79cEk": {
     "context": "dialog header",
     "en": "Delete structure",
-    "cs": "Smazat structure"
+    "cs": "Smazat strukturu"
   },
   "xAHOGV": {
     "context": "dialog header",
@@ -17732,7 +17732,7 @@
   "xEef/i": {
     "context": "",
     "en": "Open this model in GraphiQL",
-    "cs": "Otevřít this model in GraphiQL"
+    "cs": "Otevřít tento model v GraphiQL"
   },
   "xErmO2": {
     "context": "open granted refund editor from line expanded panel",
@@ -17802,7 +17802,7 @@
   "xRkj2h": {
     "context": "",
     "en": "Are you sure you want to delete {categoryName}?",
-    "cs": "Opravdu chcete smazat ategoryName}?"
+    "cs": "Opravdu chcete smazat {categoryName}?"
   },
   "xTyg+p": {
     "context": "",
@@ -17877,7 +17877,7 @@
   "xo5UIb": {
     "context": "dialog title",
     "en": "Delete category",
-    "cs": "Smazat category"
+    "cs": "Smazat kategorii"
   },
   "xol6jX": {
     "context": "",
@@ -18232,7 +18232,7 @@
   "z8jo8h": {
     "context": "button",
     "en": "View products",
-    "cs": "Zobrazit products"
+    "cs": "Zobrazit produkty"
   },
   "z9c6/C": {
     "context": "",
@@ -18372,7 +18372,7 @@
   "zZCCqz": {
     "context": "button",
     "en": "Assign countries",
-    "cs": "Přiřadit countries"
+    "cs": "Přiřadit země"
   },
   "zb1rmx": {
     "context": "alert message",
@@ -18452,7 +18452,7 @@
   "zoUlyR": {
     "context": "",
     "en": "Go to product types",
-    "cs": "Přejít na product types"
+    "cs": "Přejít na typy produktů"
   },
   "zqarUF": {
     "context": "modal information under title",
