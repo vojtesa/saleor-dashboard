@@ -2822,7 +2822,7 @@
   "8Mq3ku": {
     "context": "btn label",
     "en": "Go to Extensions",
-    "cs": "Přejít na Extensions"
+    "cs": "Přejít na rozšíření"
   },
   "8NBwu7": {
     "context": "PageTypeDeleteWarningDialog with items multiple description",
@@ -5232,7 +5232,7 @@
   "Gg4+K7": {
     "context": "",
     "en": "No Products",
-    "cs": "Žádné Products"
+    "cs": "Žádné produkty"
   },
   "GgvbdW": {
     "context": "",
@@ -7857,7 +7857,7 @@
   "PctLol": {
     "context": "no channels found title",
     "en": "No Channels Found",
-    "cs": "Žádné Channels Found"
+    "cs": "Nenalezeny žádné kanály"
   },
   "PeEood": {
     "context": "",
@@ -12387,7 +12387,7 @@
   "fpafCx": {
     "context": "deleted multiple attributes",
     "en": "Attributes deleted",
-    "cs": "Attributes smazán"
+    "cs": "Atributy smazány"
   },
   "fqJXzO": {
     "context": "order history message",
@@ -14087,7 +14087,7 @@
   "lNZuWl": {
     "context": "",
     "en": "All orders",
-    "cs": "Všechny orders"
+    "cs": "Všechny objednávky"
   },
   "lNfSYi": {
     "context": "button to fetch the next page of variants for a product in order add-line",
