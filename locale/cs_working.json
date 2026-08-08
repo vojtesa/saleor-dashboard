@@ -15382,7 +15382,7 @@
   "pxCn3q": {
     "context": "button to clear lineId filter on return page",
     "en": "Show all lines",
-    "cs": "Zobrazit all lines"
+    "cs": "Zobrazit všechny položky"
   },
   "pxh49C": {
     "context": "notification when colliding SKUs are skipped and the rest are generated",
