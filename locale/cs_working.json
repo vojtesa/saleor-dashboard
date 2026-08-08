@@ -3067,7 +3067,7 @@
   "9DUknc": {
     "context": "",
     "en": "Installation failed",
-    "cs": "Installation selhal"
+    "cs": "Instalace selhala"
   },
   "9FCrIN": {
     "context": "",
@@ -4247,7 +4247,7 @@
   "DGWVA9": {
     "context": "variant created error message",
     "en": "Variant creation failed",
-    "cs": "Variant creation selhal"
+    "cs": "Vytvoření varianty selhalo"
   },
   "DGgIIw": {
     "context": "customer recent orders table column: checkout total including shipping and tax",
@@ -4297,7 +4297,7 @@
   "DOHARW": {
     "context": "Refund status failure",
     "en": "Failure",
-    "cs": "Selhání"
+    "cs": "Neúspěch"
   },
   "DOkfyZ": {
     "context": "",
@@ -7072,7 +7072,7 @@
   "MzXBdd": {
     "context": "Refund failure status",
     "en": "Failure",
-    "cs": "Selhání"
+    "cs": "Neúspěch"
   },
   "MzXzjL": {
     "context": "",
@@ -8797,7 +8797,7 @@
   "TCR639": {
     "context": "order history message",
     "en": "Payment failed",
-    "cs": "Payment selhal"
+    "cs": "Platba selhala"
   },
   "TD/GhR": {
     "context": "header",
@@ -10582,7 +10582,7 @@
   "ZLcjD2": {
     "context": "",
     "en": "Password reset failed",
-    "cs": "Password reset selhal"
+    "cs": "Reset hesla selhal"
   },
   "ZMT099": {
     "context": "matrix column header",
@@ -12002,7 +12002,7 @@
   "e4UtKH": {
     "context": "Transaction event status - failure",
     "en": "Failure",
-    "cs": "Selhání"
+    "cs": "Neúspěch"
   },
   "e5Mlfh": {
     "context": "Transaction title",
