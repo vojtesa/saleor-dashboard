@@ -3362,7 +3362,7 @@
   "AD1PlC": {
     "context": "channels availability text",
     "en": "In {selectedChannelsCount} out of {allChannelsCount, plural, one {# channel} other {# channels}}",
-    "cs": "In {selectedChannelsCount} out of {allChannelsCount, plural, one {# channel} other {# channels}}"
+    "cs": "V {selectedChannelsCount} z {allChannelsCount, plural, one {# kanálu} few {# kanálů} other {# kanálů}}"
   },
   "ADvpV/": {
     "context": "Product can be purchased by customers",
@@ -5027,7 +5027,7 @@
   "G2WJ1J": {
     "context": "order header date, less than an hour ago",
     "en": "Placed {minutes, plural, one {# minute} other {# minutes}} ago",
-    "cs": "Placed {minutes, plural, one {# minute} other {# minutes}} ago"
+    "cs": "Zadáno před {minutes, plural, one {# minutou} few {# minutami} other {# minutami}}"
   },
   "G3ay2p": {
     "context": "section header",
@@ -5657,7 +5657,7 @@
   "I/7E/4": {
     "context": "",
     "en": "{quantity, plural, one {# unit} other {# units}}",
-    "cs": "{quantity, plural, one {# unit} other {# units}}"
+    "cs": "{quantity, plural, one {# jednotka} few {# jednotky} other {# jednotek}}"
   },
   "I/y4IU": {
     "context": "alert message",
@@ -6427,7 +6427,7 @@
   "KcsJKm": {
     "context": "error with activatation alert message",
     "en": "Error activating gift {count,plural,one{card} other{cards}}",
-    "cs": "Error activating gift {count,plural,one{card} other{cards}}"
+    "cs": "Chyba při aktivaci {count,plural,one{dárkového poukazu} few{dárkových poukazů} other{dárkových poukazů}}"
   },
   "KeO51o": {
     "context": "",
@@ -7242,7 +7242,7 @@
   "NUkDAo": {
     "context": "PageTypeDeleteWarningDialog single assigned items description",
     "en": "You are about to delete model type <b>{typeName}</b>. It is assigned to {assignedItemsCount} {assignedItemsCount,plural,one{model} other{models}}. Deleting this model type will also delete those models. Are you sure you want to do this?",
-    "cs": "You are about to delete model type <b>{typeName}</b>. It is assigned to {assignedItemsCount} {assignedItemsCount,plural,one{model} other{models}}. Deleting this model type will also delete those models. Are you sure you want to do this?"
+    "cs": "Chystáte se smazat typ modelu <b>{typeName}</b>. Je přiřazen k {assignedItemsCount} {assignedItemsCount,plural,one{modelu} few{modelům} other{modelům}}. Smazáním tohoto typu modelu se smažou i tyto modely. Opravdu to chcete provést?"
   },
   "NVYVA+": {
     "context": "return items table, add reason button",
@@ -8382,7 +8382,7 @@
   "RZDxej": {
     "context": "Popover trigger text (button)",
     "en": "Filters {count, plural, =0 {} other {({count})} }",
-    "cs": "Filters {count, plural, =0 {} other {({count})} }"
+    "cs": "Filtry {count, plural, =0 {} few {({count})} other {({count})}}"
   },
   "RaQzn2": {
     "context": "",
@@ -9557,7 +9557,7 @@
   "W/Qs4m": {
     "context": "Button label to expand and show additional hidden problems",
     "en": "Show {count} more {count, plural, one {problem} other {problems}}",
-    "cs": "Zobrazit {count} more {count, plural, one {problem} other {problems}}"
+    "cs": "Zobrazit {count} dalších {count, plural, one {problém} few {problémy} other {problémů}}"
   },
   "W/lDQA": {
     "context": "",
@@ -9912,7 +9912,7 @@
   "XGBsoK": {
     "context": "dialog content",
     "en": "Are you sure you want to unassign {counter,plural,one{this member} other{{displayQuantity} members}}?",
-    "cs": "Opravdu chcete nassign {counter,plural,one{this member} other{{displayQuantity} members}}?"
+    "cs": "Opravdu chcete odebrat {counter,plural,one{tohoto člena} few{{displayQuantity} členy} other{{displayQuantity} členů}}?"
   },
   "XGY+yQ": {
     "context": "matrix column header",
@@ -10537,7 +10537,7 @@
   "ZFfG4L": {
     "context": "ProductTypeDeleteWarningDialog single assigned items description",
     "en": "You are about to delete product type <b>{typeName}</b>. It is assigned to {assignedItemsCount} {assignedItemsCount,plural,one{product} other{products}}. Deleting this product type will also delete those products. Are you sure you want to do this?",
-    "cs": "You are about to delete product type <b>{typeName}</b>. It is assigned to {assignedItemsCount} {assignedItemsCount,plural,one{product} other{products}}. Deleting this product type will also delete those products. Are you sure you want to do this?"
+    "cs": "Chystáte se smazat typ produktu <b>{typeName}</b>. Je přiřazen k {assignedItemsCount} {assignedItemsCount,plural,one{produktu} few{produktům} other{produktům}}. Smazáním tohoto typu produktu se smažou i tyto produkty. Opravdu to chcete provést?"
   },
   "ZGmd4h": {
     "context": "button",
@@ -12187,7 +12187,7 @@
   "f+EgUw": {
     "context": "assign countries to shipping zone and save, button with selected country count",
     "en": "Assign and save ({count, plural, one {# country} other {# countries}})",
-    "cs": "Přiřadit and save ({count, plural, one {# country} other {# countries}})"
+    "cs": "Přiřadit a uložit ({count, plural, one {# zemi} few {# země} other {# zemí}})"
   },
   "f/Drvo": {
     "context": "order history message",
@@ -13642,7 +13642,7 @@
   "k8k07f": {
     "context": "order header date, less than an hour ago",
     "en": "Created {minutes, plural, one {# minute} other {# minutes}} ago",
-    "cs": "Created {minutes, plural, one {# minute} other {# minutes}} ago"
+    "cs": "Vytvořeno před {minutes, plural, one {# minutou} few {# minutami} other {# minutami}}"
   },
   "kAAlGL": {
     "context": "",
@@ -13927,7 +13927,7 @@
   "kugtAu": {
     "context": "PageTypeDeleteWarningDialog title",
     "en": "Delete model {selectedTypesCount,plural,one{type} other{types}}",
-    "cs": "Smazat model {selectedTypesCount,plural,one{type} other{types}}"
+    "cs": "Smazat {selectedTypesCount,plural,one{typ} few{typy} other{typů}} modelu"
   },
   "kuo4fW": {
     "context": "dialog title",
@@ -17697,7 +17697,7 @@
   "x3leH4": {
     "context": "ProductTypeDeleteWarningDialog title",
     "en": "Delete product {selectedTypesCount,plural,one{type} other{types}}",
-    "cs": "Smazat product {selectedTypesCount,plural,one{type} other{types}}"
+    "cs": "Smazat {selectedTypesCount,plural,one{typ} few{typy} other{typů}} produktu"
   },
   "x5wgj0": {
     "context": "link to replace automatic order discounts with a manual one",
@@ -18307,7 +18307,7 @@
   "zN0Eub": {
     "context": "info message when hasVariants is false but variant attributes exist",
     "en": "This product type has {count, plural, one {# variant attribute} other {# variant attributes}} defined, but 'Product type uses Variant Attributes' is disabled. Edit {productTypeLink} product type to enable variant attributes.",
-    "cs": "This product type has {count, plural, one {# variant attribute} other {# variant attributes}} defined, but 'Product type uses Variant Attributes' is disabled. Edit {productTypeLink} product type to enable variant attributes."
+    "cs": "Tento typ produktu má definován {count, plural, one {# atribut varianty} few {# atributy variant} other {# atributů variant}}, ale 'Typ produktu používá atributy variant' je zakázáno. Pro povolení atributů variant upravte typ produktu {productTypeLink}."
   },
   "zP3Rb6": {
     "context": "customer detail cogs menu, deactivates the customer account",
