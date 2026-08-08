@@ -4072,7 +4072,7 @@
   "Cganz5": {
     "context": "configuration section name for orders and fulfillment settings",
     "en": "Orders & fulfillment",
-    "cs": "Objednávky a vyřízení"
+    "cs": "Zpracování objednávek"
   },
   "ChAjJu": {
     "context": "character limit",
@@ -4557,7 +4557,7 @@
   "EXPRMd": {
     "context": "channel form card title for channel-owned order and checkout settings",
     "en": "Orders & fulfillment",
-    "cs": "Objednávky a vyřízení"
+    "cs": "Zpracování objednávek"
   },
   "EXqb2l": {
     "context": "",
@@ -11017,7 +11017,7 @@
   "anS/X1": {
     "context": "order settings hub page title",
     "en": "Orders & fulfillment",
-    "cs": "Objednávky a vyřízení"
+    "cs": "Zpracování objednávek"
   },
   "aq5ZiN": {
     "context": "order history message",
