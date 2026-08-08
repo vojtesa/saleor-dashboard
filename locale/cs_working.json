@@ -5057,7 +5057,7 @@
   "G9y5Ze": {
     "context": "pill status for fully captured outcome",
     "en": "Fully captured",
-    "cs": "Plně zaúčtováno"
+    "cs": "Plně zaplaceno"
   },
   "GA+Djy": {
     "context": "",
@@ -6562,7 +6562,7 @@
   "L8J/jr": {
     "context": "status pill when order is fully paid",
     "en": "Fully Captured",
-    "cs": "Plně zaúčtováno"
+    "cs": "Plně zaplaceno"
   },
   "L8seEc": {
     "context": "",
@@ -10392,7 +10392,7 @@
   "Ynjq+C": {
     "context": "",
     "en": "Fully charged",
-    "cs": "Plně zaúčtováno"
+    "cs": "Plně zaplaceno"
   },
   "Yo2kC+": {
     "context": "",
@@ -16597,7 +16597,7 @@
   "u/vOPu": {
     "context": "",
     "en": "Paid",
-    "cs": "Placené"
+    "cs": "Zaplacené"
   },
   "u0V06N": {
     "context": "",
