@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pwdx 37811 38078 38405)",
+      "Bash(kill 38405 38404)",
+      "Bash(docker stop *)",
+      "Bash(pkill -f \"vite --host\")",
+      "Bash(kill 75652)",
+      "Bash(PORT=9005 pnpm run dev)",
+      "Bash(docker rm *)",
+      "Bash(NODE_OPTIONS=--max-old-space-size=4096 pnpm exec vite build)",
+      "Bash(npx playwright *)",
+      "Bash(wget -q -O - http://localhost:8000/graphql/?query=%7B__schema%7Btypes%7Bname%7D%7D%7D)",
+      "Bash(docker pull *)",
+      "Bash(docker login *)"
+    ]
+  }
+}
